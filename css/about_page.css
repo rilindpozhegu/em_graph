@@ -1,0 +1,55 @@
+/*---------------------*/
+/*		About Page     */
+/*---------------------*/
+
+.cover_section_about {
+	background-image: url('../img/covers/about_backgorund_cover-01.png');
+	padding: 14% 6px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+/*.cover_section_about img {
+	width: 100%;
+}*/
+
+.cover_text_all_h1_p h1 {
+	font-family: 'Montserrat-Bold';
+	color: white;
+	letter-spacing: -1px;
+	font-size: 55px;
+}
+
+.cover_text_all_h1_p p {
+	color: white;
+	font-size: 15px;
+}
+
+/* Under Sections About Us page */
+
+.scetion_one_about_page {
+	padding: 90px 6px;
+}
+
+.text_about_pans {
+	padding-top: 4%;
+}
+
+.arrow_horizontal_r {
+	background-image: url('../img/backgorund/right_arrow_bg-01.png');
+	height: 70px;
+	background-position: center;
+	background-size: cover;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.arrow_horizontal_l {
+	background-image: url('../img/backgorund/left_arrow_bg-01-01.png');
+	height: 70px;
+	background-position: center;
+	background-size: cover;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

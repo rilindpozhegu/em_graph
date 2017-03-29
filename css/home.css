@@ -1,0 +1,250 @@
+/*====================*/
+/*        HOME        */
+/*====================*/
+
+/*All pages Title*/
+
+.header_title_cover {	
+	padding: 16% 6px;
+}
+.header_title_cover h2 { 
+	font-size: 80px;
+	font-family: 'Montserrat-Bold';
+	letter-spacing: -2px;
+}
+
+.header_title_cover p {
+	color: white;
+	font-size: 22px;
+}
+
+/*First Section Homepage*/
+
+.section_one_homepage {
+	padding: 70px 0px;
+}
+
+.section_one_homepage h1 {
+	font-family: 'Montserrat-UltraLight';
+	color: #5D6A84;
+	font-size: 50px;
+}
+
+.first_inner_section_one {
+	padding-top: 5%;
+}
+
+.first_inner_section_one p {
+	color: #5D6A84;
+	padding-top: 5px;
+}
+.first_inner_section_one img {
+	width: 30px;
+}
+
+.first_inner_section_one .other_f {
+	font-family: 'HelveticaNeueLTStd';
+	letter-spacing: 1px;
+}
+.first_inner_section_one hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid #5D6A84;
+    padding-bottom: 20px;
+    margin: 25px 0px 0px;
+    width: 30%;
+}
+
+.second_inner_section_one img {
+	width: 100%;
+}
+
+
+/* Home Second Section */
+
+.second_section_home {
+	background-image: url('../img/backgorund/home_s_three_bg-01.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 80px 6px;
+	text-align: center;
+}
+
+.second_section_home img {
+	width: 70%;
+}
+
+.second_section_home h4 {
+	font-family: 'Montserrat-Light';
+	color: white;
+	font-size: 22px;
+	margin-top: 20px;
+}
+.second_section_home p {
+	color: white;
+	margin-top: 15px;
+}
+
+
+
+/*------------------------------*/
+
+/* OUR WORK SECTION ON HOMEPAGE */
+
+/*------------------------------*/
+
+.our_work_home_p {
+	padding: 60px 6px 100px;
+	text-align: center;
+}
+
+.our_work_home_p h2 {
+	font-family: 'Montserrat-Bold';
+	color: #2A2E3A;
+	letter-spacing: -1px;
+	font-size: 35px;
+}
+
+.our_work_home_p p {
+	letter-spacing: 0px;	
+
+}
+
+/*Hover Demos*/
+
+.mockup_panel {
+  position: relative;
+  margin-top: 30px;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #FFF;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.5s ease;
+}
+
+.mockup_panel:hover .overlay {
+  display: block;
+  background: #2A2E3A;
+}
+
+.bgcolor {
+  /*position: absolute;*/
+  width: 100%;
+  height: 500px;
+  top: 0;
+  left: 0;
+  background-color: #E6E6E6;
+}
+
+.title {
+  position: absolute;
+  /*width: 300px;*/
+  left: 0;
+  top: 15%;
+  font-weight: 700;
+  font-size: 30px;
+  padding-left: 15%;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  z-index: 1;
+  transition: top .5s ease;
+  transition: all ease-in-out 0.4s;
+}
+
+.mockup_panel:hover .title {
+  top: 1%;
+  transform: scale(0.87);
+  transition: all ease-in-out 0.4s;
+}
+
+.button_in_panel_h {
+  position: absolute;
+  width: 500px;
+  left:0;
+  bottom: 40px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity .35s ease;
+}
+
+.button_in_panel_h a {
+  text-align: center;
+  color: white;
+  z-index: 1;
+}
+
+.mockup_panel:hover .button_in_panel_h {
+  opacity: 1;
+}
+
+.button_in_panel_h p {
+	color: white;
+	font-family: 'Montserrat-Light';
+	font-size: 22px;
+	margin-bottom: 0px;
+}
+
+.our_work_home_p .button_style_red_sm {
+	margin-top: 40px;
+}
+
+
+/*	Statistics On Homepage  */
+
+.statistics_section_home {
+	background-color: #2A2E3A;
+	height: 65%;
+}
+
+.statistics_section_home img {
+	width: 100%;
+	margin-top: -12%;
+}
+
+.statistics_text_right {
+	padding-top: 6.2%;
+}
+.statistics_text_right p {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	letter-spacing: -2px;
+	font-size: 50px;
+	margin-bottom: 0px;
+}
+
+/*-----------------------*/
+/*  Bring Your Project   */
+/*-----------------------*/
+
+.bring_your_project {
+	background-color: #FF0000; 
+}
+
+.bring_text_home {
+	padding: 10% 7% 0%;
+}
+
+.bring_your_project h1 {
+	font-family: 'Montserrat-Bold';
+	font-size: 55px;
+	color: white;
+	letter-spacing: -1px;
+}
+
+.bring_your_project h2 {
+	font-family: 'Montserrat-Light';
+	color: white;
+
+}
