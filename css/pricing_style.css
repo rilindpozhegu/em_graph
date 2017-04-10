@@ -1,0 +1,101 @@
+/*----------------------*/
+/*	Pricing Page st     */
+/*----------------------*/
+
+.cover_pricing_services_page {
+	background-image: url('../img/covers/pricing_background-01.png');
+	padding: 14% 6px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.cover_pricing_services_page span {
+	color: #FF0000;
+}
+
+.cover_pricing_services_page p {
+	color: #7F8289;
+	font-size: 26px;
+}
+
+/*First Section of Pricing Page*/
+
+.price_page_first_section {
+	padding: 60px 6px;
+	text-align: center;
+}
+
+.price_page_first_section .col-md-3 {
+	margin-top: 20px;
+}
+.price_page_first_section h2 {
+	color: #2A2E3A;
+	margin-bottom: 20px;
+}
+
+.price_page_first_section img {
+	color: #2A2E3A;
+	width: 30%;
+}
+
+.price_page_first_section h3 {
+	color: #5D6A84;
+	font-family: 'Montserrat-Regular';
+	padding-bottom: 10px;
+}
+
+.price_page_first_section p {
+	color: #2A2E3A;	
+	padding: 5px 10px;
+}
+
+.decide_btn {
+	margin-top: 20px;
+}
+.decide_btn button {
+	border-radius: 30px;
+	background-color: #5D6A84;
+	color: white;
+	border: solid 1px transparent;
+	font-family: 'Montserrat-Bold';
+	padding: 5px 10px;
+	height: 35px;
+}
+
+.decide_btn button:hover i {
+	background-color: red;
+	color: white;
+	transition: ease-in-out all 0.3s;
+}
+.decide_btn button i {
+    background: white;
+    padding: 4px 9px;
+    border: solid 1px transparent;
+    border-radius: 50px;
+    color: red;
+    transition: ease-in-out all 0.3s;
+}
+
+/*	Get Free Mockups  */ 
+
+.get_free_mo_pricing {
+	padding: 90px 20px;
+}
+.get_free_mo_pricing .get_freee_text {
+	padding-top: 3%;
+}
+
+.get_free_mo_pricing .get_freee_text h1 {
+	font-family: 'Montserrat-Bold';
+	font-size: 55px;
+	color: #5D6A84;
+}
+.get_free_mo_pricing .get_freee_text span {
+	color: #FF0000;
+}
+
+.get_free_mo_pricing .get_freee_text p {
+	font-size: 20px;
+	color: #5D6A84;
+}

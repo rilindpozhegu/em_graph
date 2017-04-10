@@ -8,7 +8,7 @@
 
             <div class="col-md-10 col-md-offset-1">
               <div class="col-md-6 no_padding">  
-                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">                
+                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">                
                     <div class="group_inputs">      
                       <input type="text" required class="input_style">
                       <span class="highlight"></span>
@@ -16,7 +16,7 @@
                       <label class="label_string">Name</label>
                     </div>
                 </div>
-                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">            
+                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">            
                     <div class="group_inputs">      
                       <input type="text" required class="input_style">
                       <span class="highlight"></span>
@@ -24,7 +24,7 @@
                       <label class="label_string">Phone</label>
                     </div>                    
                 </div>
-                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">                
+                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">                
                     <div class="group_inputs">      
                       <input type="text" required class="input_style">
                       <span class="highlight"></span>
@@ -32,7 +32,7 @@
                       <label class="label_string">Email</label>
                     </div>
                 </div>
-                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">            
+                <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">            
                     <div class="group_inputs">      
                       <input type="text" required class="input_style">
                       <span class="highlight"></span>
@@ -42,7 +42,7 @@
                 </div>
                 </div>
                 <div class="col-md-6 no_padding">
-                  <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">            
+                  <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">            
                       <div class="group_inputs">      
                         <input type="text" required class="input_style">
                         <span class="highlight"></span>
@@ -50,7 +50,7 @@
                         <label class="label_string">Budget</label>
                       </div>                    
                   </div>
-                  <div class="col-md-12 input_size_textarea wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">                            
+                  <div class="col-md-12 input_size_textarea wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".4s">                            
                       <div class="group_inputs textarea">      
                         <input type="text" required class="input_style">
                         <span class="highlight"></span>
@@ -61,7 +61,7 @@
                 </div>
 
                 <div class="col-md-12">
-                    <button class="button_style_red_sm wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
+                    <button class="button_style_red_sm button_main button__aylen wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
 
             </div>

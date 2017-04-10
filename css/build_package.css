@@ -1,0 +1,101 @@
+/*---------------------*/
+/*     Sevices Page    */
+/*---------------------*/
+
+.cover_section_services_page {
+	background-image: url('../img/covers/services_backgorund_cover-01.png');
+	padding: 14% 6px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+.cover_section_services_page p {
+	color: #7F8289;
+	font-size: 26px;
+	font-family: 'Montserrat-Light';
+}
+.services_page_first_section {
+	background-color: #121A23;
+	padding: 70px;
+}
+.text_about_cover span {
+	color: red;
+}
+.services_choose_section {
+	padding-top: 60px;
+}
+.services_page_first_section h4 {
+	font-size: 30px;
+	font-family: 'Montserrat-Light';
+	color: white;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+/*  Show Results Here Style. */
+
+.total_price_section {
+	padding-top: 60px;
+}
+.total_price_section p {
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 30px;
+} 
+.counted_panel_right_one {
+  	width: 100%;
+  	padding: 20px;
+  	text-align: center;
+  	color: white;
+  	font-family: 'Montserrat-Light';
+  	color: white;  
+  	background-color: #0D141C;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	border-radius: 6px;
+	margin-top: 30px;
+}
+
+.counted_panel_right_one p {
+	margin-bottom: 0px;
+}
+
+.counted_panel_right_one h1 {
+	margin-top: 5px;
+	font-family: 'Montserrat-Bold';
+}
+
+.counted_panel_right_two {	
+  	width: 100%;
+  	padding: 20px;
+  	text-align: center;
+  	color: white;
+  	font-family: 'Montserrat-Light';
+  	color: white;  
+  	background-color: #2A2E3A;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	border-radius: 6px;
+	margin-top: 30px;
+}
+
+.counted_panel_right_two img {
+	width: 30px;
+}
+
+.counted_panel_right_two h1 {
+	margin-top: 5px;
+	font-family: 'Montserrat-Bold';
+	font-size: 22px;
+}
+
+.counted_panel_right_two i {
+    color: red;
+    position: absolute;
+    /* top: 0px; */
+    left: 83%;
+    font-size: 20px;
+}
+
+.counted_panel_right_two i:hover {
+	color: white;
+}

@@ -1,0 +1,104 @@
+/*----------------------*/
+/*	are we good page    */
+/*----------------------*/
+.carousel-inner img {
+	width: 100%;
+}
+.cover_are_we_g_page {
+	background-image: url('../img/backgorund/are_we_good_bg-01.png');
+	padding: 14% 6px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.cover_are_we_g_page {
+	text-align: center;
+}
+.cover_are_we_g_page h1 {
+	font-family: "Montserrat-Bold";
+	color: white;
+	font-size: 60px;
+	letter-spacing: -2px;
+}
+
+.cover_are_we_g_page span {
+	color: red;
+}
+
+/*	Choose what you are  */
+.choose_what_you_r_check {
+	background-image: url('../img/backgorund/who_u_r-01.png');
+	padding: 1% 6px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+	height: auto;
+}
+
+.choose_what_you_r_check h1 {
+	text-align: center;
+	color: white;
+	margin-bottom: 15px;
+}
+
+#point1 {
+	margin: 10% 6px !important;
+}
+#point2 {
+	margin: 10% 6px !important;
+}
+#point3 {
+	margin: 10% 6px !important;
+}
+#point4 {
+	margin: 10% 6px !important;
+}
+
+
+/*Who are you section*/
+
+.pointer_navigatior_sc {
+    position: fixed !important;
+    top: 45%;
+    right: 4%;
+    z-index: 10000;
+    margin-top:12px;
+}
+
+.pointer_navigatior_sc.stick {
+    position: fixed !important;
+    top: 45%;
+    right: 4%;
+    z-index: 10000;
+    margin-top:12px;
+}
+
+
+.pointer_navigatior_sc ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    text-align: right;
+}
+
+.pointer_navigatior_sc ul li {
+	padding-top: 20px;
+}
+
+.pointer_navigatior_sc a.nav-active {
+    color:red;
+    text-decoration: none !important;
+}
+.pointer_navigatior_sc a {
+	text-decoration: none !important;
+}
+.pointer_navigatior_sc a.nav-active{
+    color:red !important;
+}
+.pointer_navigatior_sc a.nav-active span{
+    color:white;
+}
+.pointer_navigatior_sc .nav_point {
+    color: #5D6A84;
+}

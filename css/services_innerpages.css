@@ -1,0 +1,249 @@
+/*=======================*/
+
+/*	Services Innerpages  */
+
+/*=======================*/
+
+
+/*Website Services Page*/
+
+.cover_section_website {
+	background-image: url('../img/services/website_cover-01.png');
+	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center 0px;
+    padding: 10% 6px;
+}
+.cover_section_website p {
+	color: #7F8289;
+	font-size: 17px;
+}
+.second_section_websitep {
+	background-image: url('../img/services/services_details_bg_3-01.png');
+	background-repeat: no-repeat;
+    background-position: center 0px;
+    padding: 80px 6px;
+    background-size: cover;
+    text-align: center; 
+}
+
+.second_section_websitep h1 {
+	font-family: 'Montserrat-Bold';
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+.second_section_websitep img {
+	width: 70%;
+}
+
+.second_section_websitep h3 {
+	color: white;
+}
+
+
+.three_circles_branding {
+	padding: 70px 10px;
+}
+
+
+/*Branding Page*/
+
+.ch-item {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	position: relative;
+	cursor: default;
+	-webkit-perspective: 900px;
+	-moz-perspective: 900px;
+	-o-perspective: 900px;
+	-ms-perspective: 900px;
+	perspective: 900px;
+}
+.ch-info{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.ch-info > div {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	background-position: center center;
+	-webkit-transition: all 0.4s linear;
+	-moz-transition: all 0.4s linear;
+	-o-transition: all 0.4s linear;
+	-ms-transition: all 0.4s linear;
+	transition: all 0.4s linear; 
+	-webkit-transform-origin: 50% 0%;
+	-moz-transform-origin: 50% 0%;
+	-o-transform-origin: 50% 0%;
+	-ms-transform-origin: 50% 0%;
+	transform-origin: 50% 0%;
+}
+
+.ch-info .ch-info-front {
+	box-shadow: inset 0 0 0 16px rgba(0,0,0,0.3);
+}
+
+.ch-info .ch-info-back {
+	-webkit-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-moz-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-o-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-ms-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	background: #5D6A84;
+	opacity: 0;
+}
+
+.ch-img-1 { 
+	background-image: url(../img/services/why_bg_r-01.png);
+}
+
+.ch-img-2 { 
+	background-image: url(../img/services/how_bg_r-01.png);
+}
+
+.ch-img-3 { 
+	background-image: url(../img/services/what_bg_r-01.png);
+}
+
+.ch-info h3 {
+	color: #fff;
+	font-size: 24px;
+	margin: 0 15px;
+	padding: 30px 0 0 0;
+	height: 70px;
+	font-family: 'Montserrat-Bold';
+	text-shadow: 
+		0 0 1px #fff, 
+		0 1px 2px rgba(0,0,0,0.3);
+}
+
+.ch-info p {
+	color: #fff;
+	padding: 10px 5px;
+	font-style: italic;
+	margin: 0 30px;
+	font-size: 14px;
+	border-top: 1px solid rgba(255,255,255,0.5);
+}
+
+.ch-info p a {
+	display: block;
+	color: #fff;
+	color: rgba(255,255,255,0.7);
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 9px;
+	letter-spacing: 1px;
+	padding-top: 4px;
+}
+
+.ch-info p a:hover {
+	color: #fff222;
+	color: rgba(255,242,34, 0.8);
+}
+
+.ch-item:hover .ch-info-front {
+	-webkit-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-moz-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-o-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-ms-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	opacity: 0;
+}
+
+.ch-item:hover .ch-info-back {
+	-webkit-transform: rotate3d(1,0,0,0deg);
+	-moz-transform: rotate3d(1,0,0,0deg);
+	-o-transform: rotate3d(1,0,0,0deg);
+	-ms-transform: rotate3d(1,0,0,0deg);
+	transform: rotate3d(1,0,0,0deg);
+	opacity: 1;
+}
+
+.ch-grid {
+	margin: 20px 0 0 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.ch-grid:after,
+.ch-item:before {
+	content: '';
+    display: table;
+}
+
+.ch-grid:after {
+	clear: both;
+}
+
+.ch-grid li {
+	width: 270px;
+	height: 270px;
+	display: inline-block;
+	margin: 20px;
+}
+
+.cover_section_branding {	
+	background-image: url('../img/services/brand_cover-01.png');
+	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center 0px;
+    padding: 10% 6px;
+}
+.cover_section_branding p {
+	color: #7F8289;
+	font-size: 17px;
+}
+
+/*Marketing Page*/
+
+.cover_section_marketing {	
+	background-image: url('../img/services/marketing_cover-01.png');
+	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center 0px;
+    padding: 10% 6px;
+}
+.cover_section_marketing p {
+	color: #7F8289;
+	font-size: 17px;
+}
+
+.marketing_icons_section {
+	text-align: center;
+	background-color: #121A23;
+	color: white;
+	padding: 7% 10px;
+}
+.marketing_icons_section .col-md-6 {
+	padding-bottom: 20px;
+}
+.marketing_icons_section h3 {
+	font-family: 'Montserrat-Bold';
+	font-size: 34px;
+}
+.marketing_icons_section img {
+	width: 32%;
+}

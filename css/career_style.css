@@ -1,0 +1,32 @@
+.cover_section_career {	
+	background-image: url('../img/services/career_cover-01.png');
+	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center 0px;
+    padding: 10% 6px;
+}
+.cover_section_career p {
+	color: #7F8289;
+	font-size: 17px;
+}
+
+.career_first_section {
+	background-color: #F2F2F2;
+	padding: 90px 10px;
+}
+
+.career_first_section .career_panel {
+	background-color: white;
+	padding: 60px 40px 40px; 
+}
+
+.career_panel h5 {
+	font-size: 30px; 
+}
+.career_first_section .career_panel p {
+	font-size: 15px;
+	color: #7F8289;
+	padding-bottom: 30px;
+}

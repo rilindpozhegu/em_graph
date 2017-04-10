@@ -2945,27 +2945,29 @@ https://github.com/imakewebthings/jquery-waypoints/blob/master/licenses.txt
 }));
 
 $('.responsive').slick({
-  dots: true,
+  dots: false,
   infinite: true,
   speed: 300,
   slidesToShow: 3,
   slidesToScroll: 3,
   autoplay: true,
-  autoplaySpeed: 22222000,
+  arrows: false,
+  autoplaySpeed: 4000,
   responsive: [
     {
-      dots: false,
       breakpoint: 1024,
+      arrows: false,
       settings: {
-        slidesToShow: 3,
-        slidesToScroll: 3,
+        slidesToShow: 2,
+        slidesToScroll: 2,
         infinite: true,
-        dots: true
+        dots: false
       }
     },
     {
       dots: false,
       breakpoint: 600,
+      arrows: false,
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1
@@ -2974,7 +2976,8 @@ $('.responsive').slick({
     {
       dots: false,
       breakpoint: 480,
-      settings: {
+      arrows: false,
+        settings: {
         slidesToShow: 1,
         slidesToScroll: 1
       }
@@ -2989,7 +2992,7 @@ $('.responsive').slick({
         var $window = $(window);
         var $bodya = $("#parallax_slide_bg").css("background-attachment" , "fixed");                
         //scroll amount - the less it is, the more noticable the effect is 
-        var scrollAmount = -3;                
+        var scrollAmount = -1.6;                
         //functuon executed while we're scrolling 
         $window.scroll(function() {
             //moving the background position 
@@ -3035,3 +3038,37 @@ jQuery(document).ready(function($){
 	// add active class to target list
 	target.addClass ('active_nav');
 })
+    $(document).ready(function(){
+        var aChildren = $(".pointer_navigatior_sc li").children(); // find the a children of the list items
+        var aArray = []; // create the empty aArray
+        for (var i=0; i < aChildren.length; i++) {    
+            var aChild = aChildren[i];
+            var ahref = $(aChild).attr('href');
+            aArray.push(ahref);
+        } // this for loop fills the aArray with attribute href values
+        
+        $(window).scroll(function(){
+            var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page
+            var windowHeight = $(window).height(); // get the height of the window
+            var docHeight = $(document).height();
+            
+            for (var i=0; i < aArray.length; i++) {
+                var theID = aArray[i];
+                var divPos = $(theID).offset().top; // get the offset of the div from the top of page
+                var divHeight = $(theID).height(); // get the height of the div in question
+                if (windowPos >= divPos && windowPos < (divPos + divHeight)) {
+                    $("a[href='" + theID + "']").addClass("nav-active");
+                } else {
+                    $("a[href='" + theID + "']").removeClass("nav-active");
+                }
+            }
+            
+            if(windowPos + windowHeight == docHeight) {
+                if (!$(".pointer_navigatior_sc li:last-child a").hasClass("nav-active")) {
+                    var navActiveCurrent = $(".nav-active").attr("href");
+                    $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
+                    $(".pointer_navigatior_sc li:last-child a").addClass("nav-active");
+                }
+            }
+        });
+    });

@@ -33,7 +33,7 @@ module.exports = function(grunt) {
 					'js/smoothscroll.js', // Smooth Scroll Script + time to Scroll,					
 					'js/check_box.js',
 					'js/active_property.js',
-
+					'js/pointer_navigatior.js', //Pointer Navigation Middle
 
 					],
 

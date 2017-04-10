@@ -1,0 +1,141 @@
+.cover_section_blog {
+	background-image: url('../img/backgorund/blog_cover_img-01.png');
+	padding: 14% 6px;
+	background-size: cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+/*Icons Style Font Awesome*/
+.social-panel-icons {
+  margin-top: -50px;
+}
+
+.social-panel-icons button {
+  height: 30px;
+  width: 30px;
+  border: none;
+  border-radius: 50px;
+  background-color: #e50011;
+  color: white;
+  margin: 0px 5px;
+}
+
+
+
+/* Blog Section Panels*/
+
+.blog-panel {
+  text-align: center;
+  /*margin: 10px 0px; */
+  padding: 0px 5px;
+}
+
+.blogpanel-1 {
+  border: solid 1px #a6a8ab;
+  padding: 10px 0px;
+  height: 400px;
+  margin-bottom: 10px;
+}
+.blog-panel img {
+  width: 100%;
+  margin-top: -10px;
+}
+
+.text-panel-blog {
+  margin-top: 40px;
+}
+
+.text-panel-blog span{
+  font-family: 'Montserrat-Regular';
+  color: #a6a8ab;
+  font-size: 10px;
+}
+
+.text-panel-blog h5{
+  font-family: 'Montserrat-Regular';
+  color: #e50011;
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.text-panel-blog p{
+  color: #a6a8ab;
+  font-size: 15px;
+  font-family: 'Nexa';
+  padding: 0px 10px;
+}
+
+.text-panel-blog img{
+  width: auto;
+}
+
+
+/*Right Blog Panels*/
+.right-panel {
+  padding: 0px 20px; 
+}
+.right-panel p {
+  color: #a6a8ab;
+  font-size: 20px;
+  font-family: 'Nexa';
+  padding: 20px 10px;
+}
+
+/*First panel*/
+.first-right_panel {
+  text-align: center;
+  border: solid 1px #a6a8ab;
+}
+.right-panel .social-panel-icons {
+  margin-top: 0px;
+  padding: 30px 0px;
+}
+
+/*Second Panel*/
+.first-right_panel1 {
+  margin-top: 20px;
+  text-align: center;
+  border: solid 1px #a6a8ab;
+}
+
+.small-pnael-img img {
+  width: 100%;
+}
+.small-pnael-img  {
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.onepanel p {
+  padding: 10px;
+  margin-bottom: 0px;
+  color: #a6a8ab;
+}
+.onepanel p a{
+  text-decoration: none;
+  color: #a6a8ab;
+}
+.onepanel p a:hover{
+  text-decoration: none;
+  color: #a6a8ab;
+}
+.onepanel p a:active{
+  text-decoration: none;
+  color: #a6a8ab;
+}
+
+/*======================*/
+/*      BLOG PAGES      */
+/*======================*/
+.image-section-blog_1 {
+  text-align: center;
+  padding: 14% 0px 20px;
+}
+.text-body-blog {
+  color: #a6a8ab;
+  text-align: center;
+  font-size: 18px;
+  padding: 20px 0px;
+}
+.text-body-blog img {
+  width: 100%;
+}

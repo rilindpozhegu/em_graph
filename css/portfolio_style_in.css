@@ -1,0 +1,75 @@
+/*=========================*/
+/*	  PORTFOLIO STYLES     */
+/*=========================*/
+
+.portfolio_body_all {
+	background-image: url('../portfolio/img/portfolio_all_bg_body-01.png');
+    background-attachment: fixed;
+    background-position: center -50px;   
+    background-size: : cover;
+    background-repeat: no-repeat;
+}
+
+.first_section_port {
+	padding-top: 15%;
+	padding-bottom: 5%;
+}
+
+.red_tittle_portfolio {
+	color: #FF0013;
+	font-family: 'Montserrat-Bold';
+	font-size: 45px;
+	margin-top: 0px;
+}
+.second_title_portfolioh3 {
+    color: black;
+    font-size: 44px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.portfolio_paragraphs {
+	color: #5D6A84;
+	font-size: 16px;
+}
+
+.second_section_portfolio {
+	padding: 7% 10px;
+}
+
+.section_three_portfolio {
+	padding: 7% 10px;
+}
+.section_foru_portfolio {
+	padding: 7% 10px;
+}
+.section_five_portfolio {
+	padding: 7% 10px;
+}
+.section_six_portfolio {
+	padding: 7% 10px;
+}
+
+
+/*Buttons on the end of the portfolio page*/
+
+.last_buttons_portfolio {
+	text-align: center;
+	padding: 20px 10px 40px;
+}
+
+.last_buttons_portfolio button {
+	background: transparent;
+	border:none;
+	color: #5D6A84;
+	font-family: 'Montserrat-Regular';
+}
+
+.last_buttons_portfolio button i {
+	background: red;
+	border-radius: 50px;
+	color: white !important;
+	border: transparent solid 1px;
+	padding: 7px 10px;
+	height: 30px;
+	width: 30px;
+}

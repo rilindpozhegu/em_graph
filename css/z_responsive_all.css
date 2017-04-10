@@ -1,0 +1,178 @@
+/*======================*/
+
+/*	 Responzive Part    */
+
+/*======================*/
+
+/*Only in desktop*/
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+      display: none;
+    }
+
+}
+
+/*Only on Mobile*/
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+   		display: none;
+  	}
+    .header_title_cover {
+	    padding: 34% 6px;
+	}
+	.header_title_cover h2 {
+	    font-size: 47px;
+	    font-family: 'Montserrat-Bold';
+	    letter-spacing: -2px;
+	}
+	.header_title_cover p {
+	    color: white;
+	    font-size: 18px;
+	}
+	.section_one_homepage {
+	    padding: 20px 0px 40px;
+	}
+	.section_one_homepage h1 {
+	    font-family: 'Montserrat-UltraLight';
+	    color: #5D6A84;
+	    font-size: 40px;
+	}
+	.button_in_panel_h {
+		width: 100%;
+	}
+	.mockup_panel .title {
+		padding-right: 6%;
+	}
+	.our_work_home_p {
+		padding: 20px 10px 60px;
+	}
+	.bgcolor {
+		height: 420px;
+	}
+	.statistics_section_home .big_mockup_p {
+		text-align: center;
+	}
+	.statistics_section_home .statistics_text_right {
+		padding: 10px 20px;
+	}
+	.lastest_news_home p {
+		font-size: 12px;
+	}
+	.bring_text_home {
+		padding: 50px 40px;
+	}
+	.bring_your_project h1 {
+	    font-family: 'Montserrat-Bold';
+	    font-size: 36px;
+	    color: white;
+	    letter-spacing: -1px;
+	}
+	.bring_your_project p {
+		font-size: 19px;
+	}
+	/*Footer all Style */
+	.solial_media_footer {
+		text-align: center;
+	}
+	.solial_media_footer button {
+	  margin-top: 0px !important;
+	  width: 27%;
+	}
+
+	/*Get Started Navigation bar colored and the actual page*/
+	.cover_section_about {
+		background-image: none;
+		background-color: #0B1016;
+		padding: 24% 6px 10%;
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+	.cover_text_all_h1_p h1 {
+		font-size: 39px;
+	}
+	.cover_text_all_h1_p p {
+		font-size: 13px;
+	}
+	.scetion_one_about_page {
+		padding: 50px 6px;
+	}
+	.scetion_one_about_page img{
+		margin-bottom: 40px;
+	}
+
+	/*Build the package Page*/
+
+	.cover_section_services_page {
+		background-image: none;
+		background-color: #0B1016;
+		padding: 24% 6px 10%;
+		background-size: cover;
+		background-position:center;
+		background-repeat: no-repeat;
+		height: 100vh;
+	}
+	.cover_section_services_page img{
+		padding-bottom: 30px;
+	}
+	.services_page_first_section {
+		padding: 40px 4px; 
+	}
+
+	/*Pricing Page*/
+
+	.cover_pricing_services_page {
+		background-image: none;
+		background-color: #0B1016;
+		padding: 24% 6px 10%;
+		background-size: cover;
+		background-position:center;
+		background-repeat: no-repeat;
+		height: 100vh;
+	}
+	.price_page_first_section {
+		padding: 40px 20px 10px;
+	}
+	.get_free_mo_pricing {
+		padding: 40px 6px;
+	}
+	.get_free_mo_pricing .get_freee_text h1 {
+		font-size: 45px;
+	}
+	.get_free_mo_pricing .get_freee_text p {
+		font-size: 17px;
+	}
+	.get_free_mo_pricing img {
+		margin-top: 20px;
+	}
+
+	/*are we a good fit*/
+
+	.cover_are_we_g_page {
+		background-image: url('../img/backgorund/are_we_good_bg-01.png');
+		padding: 30% 6px 15%;
+		background-size: cover;
+		background-position:center;
+		background-repeat: no-repeat;
+	}
+	.choose_what_you_r_check {		
+		background-image: none;
+		background-color: #0B1016;
+	}
+
+	/*Blog Page*/
+
+	.cover_section_blog {
+		background-image: url('../img/backgorund/blog_cover_img-01.png');
+		padding: 27% 6px;
+		background-size: cover;
+		background-position:center;
+		background-repeat: no-repeat;
+	}
+
+	.information_contact_section .col-xs-12 {
+		text-align: center;
+		padding-bottom: 20px;
+	}
+}
+

@@ -5,7 +5,7 @@
 /*All pages Title*/
 
 .header_title_cover {	
-	padding: 16% 6px;
+	padding: 18% 6px 0px;
 }
 .header_title_cover h2 { 
 	font-size: 80px;
@@ -205,7 +205,7 @@
 
 .statistics_section_home {
 	background-color: #2A2E3A;
-	height: 65%;
+	/*height: 65%;*/
 }
 
 .statistics_section_home img {

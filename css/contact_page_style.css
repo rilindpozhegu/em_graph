@@ -1,0 +1,54 @@
+
+#map {
+	height: 700px;
+	width: 100%;
+	background-color: grey;
+}
+
+.information_contact_section {
+	background-color: #F2F2F2;
+	padding: 30px;
+	text-align: center;
+}
+
+.information_contact_section p {
+	color: #2A2E3A;
+	font-family: 'Montserrat-Regular';
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+.contact_page_inputs h2 {
+	font-family: 'Montserrat-Bold';
+	font-size: 53px;
+	color: #5D6A84;
+	letter-spacing: -2px;
+	padding-bottom: 20px;
+}
+.contact_page_inputs h2 span {
+	color: red;
+}
+.contact_page_inputs .contact_forms_section {
+  background-color: white;
+  padding: 60px 6px;
+  text-align: center;
+}
+
+.contact_page_inputs .input_style{	
+  border-bottom:2px solid #5D6A84;
+}
+
+.contact_page_inputs .label_string {
+	color: black;
+}
+
+.contact_page_inputs .group_inputs {
+  color: black;
+}
+
+.contact_page_inputs .textarea .input_style:focus ~ .label_string, .textarea .input_style:valid ~ .label_string {	
+  top:-50px;
+}
+
+.contact_page_inputs .input_size_textarea {
+  margin-top: 80px;
+}

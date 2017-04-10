@@ -1,0 +1,39 @@
+.carousel-caption {
+	padding-bottom: 60px;
+}
+.carousel-inner h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: left;
+	font-size: 55px;
+}
+.carousel-inner p {
+	text-align: left;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    z-index: 15;
+    width: 100%;
+    padding-left: 0;
+    margin-left: -37%;
+    text-align: right;
+    list-style: none;
+}
+
+.carousel-indicators li{
+	color: #5D6A84;
+	font-size: 15px;
+	font-family: 'Montserrat-Bold';
+	border: transparent solid 1px;
+	background-color: transparent;
+	width: 10%;
+}
+
+.carousel-indicators .active {
+	color: red;
+	font-family: 'Montserrat-Bold';
+	border: transparent;
+	background-color: transparent;
+	width: 10%;
+}
