@@ -215,6 +215,7 @@
 
 .statistics_text_right {
 	padding-top: 6.2%;
+	text-align: right;
 }
 .statistics_text_right p {
 	color: white;

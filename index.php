@@ -167,11 +167,11 @@
             <div class="col-xs-12 col-md-7 big_mockup_p">
                 <img src="img/mockups/big_mockup-01.png" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
             </div>
-            <div class="statistics_text_right col-md-offset-1 col-md-4">
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">4 years</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">350 clients</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">5000 coffees</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">20 countries</p>
+            <div class="statistics_text_right col-md-3">
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s"><span class="counter" style="display: inline-block;">4</span> years</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"><span class="counter" style="display: inline-block;">350</span> clients</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s"><span class="counter" style="display: inline-block;">5000</span> coffees</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s"><span class="counter" style="display: inline-block;">20</span> countries</p>
                 <button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".6s">Get In Touch</button>
             </div>
         </div>
