@@ -6,8 +6,9 @@
 	background-image: url('../portfolio/img/portfolio_all_bg_body1-01.png');
     background-attachment: fixed;
     background-position: center -50px;   
-    background-size: : cover;
-    background-repeat: no-repeat;
+    background-size: : cover !important;
+    width: 100%;
+    /*background-repeat: no-repeat;*/
 }
 
 .first_section_port {
@@ -65,11 +66,20 @@
 }
 
 .last_buttons_portfolio button i {
-	background: red;
+	background: white;
+	color: red !important;
 	border-radius: 50px;
-	color: white !important;
 	border: transparent solid 1px;
 	padding: 7px 10px;
 	height: 30px;
+	font-weight: bolder;
 	width: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.last_buttons_portfolio button i:hover {
+	background: red;
+	color: white !important;
+	/*border: solid 1px #ccc;*/
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }

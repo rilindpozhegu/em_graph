@@ -32,7 +32,7 @@
 <form id="video-landing" class="home_page_hero">
 <section class="video-holder">
     <section id="video-landing">
-        <video autoplay="autoplay" loop="loop" id="bgvid" poster="img/home_coffe_last-01.png">
+        <video autoplay="autoplay" loop="loop" id="bgvid" poster="img/non_video_display-01.png">
             <source src="http://taxify.co/wp-content/uploads/2014/06/file.mp4" type="video/mp4" /> 
         </video>
     </section>
@@ -43,7 +43,7 @@
             <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Free Custom Design</h2>
             <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">OF YOUR NEW HOMEPAGE, DELIVERED IN 5 DAYS, NO COST OR <br>FUTURE OBLIGATION. GUARANTEED.</p>
             <a href="portfolio_main.php"><button class="button_style_red_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View Portfolio</button></a>
-            <a href="our_story.php"><button class="button_style_white_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Our Story</button></a>
+            <a href="get_started.php"><button class="button_style_white_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started</button></a>
             <section id="section05" class="demo col-md-12 smooth">
                 <a href="#section122" class="smooth"><span></span></a>
             </section>
@@ -60,7 +60,7 @@
                 <hr class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s">
                 <h5  class="other_f">Emirates Graphic made a huge change on our business. We coulnd’t believe the growth of our company since we got their service.</h5>
                 <p class="other_f"><img src="img/small_sacha-01.png" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s"> &nbsp;Sacha Christe, Swiss Canonica Chocolate</p>
-                <button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Are we a good fit?</button>
+                <button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Our Story</button>
             </div>
             <div class="col-md-6 no_padding second_inner_section_one">
                 <img src="img/mockups/mockup_one_home-01.png" class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
@@ -107,14 +107,27 @@
             <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Some of our work</h2>
             <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">At Emirates Graphic, we are proud of our past projects and accomplishments, and nothing brings us more satisfaction than working with<br> our clients towards their success. Here, you can view some of our work in order to get an idea of what you’re getting when you entrust<br> us with designing your website, helping solidify your brand identity, or managing your online presence.</p>
 
+
+            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="mockup_panel">
+                    <div class="bgcolor"></div>
+                    <img src="img/mockups/big_mockup12a-01.png" class="title img-responsive">
+                    <div class="overlay"></div>
+                    <div class="button_in_panel_h col-md-12">
+                        <p>Nationaly Advisor</p>
+                        <a href="http://www.emiratesgraphic.com/emirates-graphic/portfolio/portfolio7.php"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="mockup_panel">
                     <div class="bgcolor"></div>
                     <img src="img/mockups/world_mockup-01.png" class="title img-responsive">
                     <div class="overlay"></div>
                     <div class="button_in_panel_h">
-                        <p>SWISS CANONICA</p>
-                        <a href="#"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
+                        <p>Swiss Canonica</p>
+                        <a href="http://www.emiratesgraphic.com/emirates-graphic/portfolio/portfolio2.php"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
                     </div>
                 </div>
             </div>
@@ -125,21 +138,8 @@
                     <img src="img/mockups/tax_mockup-01.png" class="title img-responsive">
                     <div class="overlay"></div>
                     <div class="button_in_panel_h col-md-12">
-                        <p>TAXEXPERT</p>
-                        <a href="#"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".2s">
-                <div class="mockup_panel">
-                    <div class="bgcolor"></div>
-                    <img src="img/mockups/uae_mockup-01.png" class="title img-responsive">
-                    <div class="overlay"></div>
-                    <div class="button_in_panel_h col-md-12">
-                        <p>THE SCOUT</p>
-                        <a href="#"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
+                        <p>TaxExperts</p>
+                        <a href="http://www.emiratesgraphic.com/emirates-graphic/portfolio/portfolio10.php"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
                     </div>
                 </div>
             </div>
@@ -150,8 +150,8 @@
                     <img src="img/mockups/landscape_mockup-01.png" class="title img-responsive">
                     <div class="overlay"></div>
                     <div class="button_in_panel_h col-md-12">
-                        <p>EMIRATES LANDCSAPE</p>
-                        <a href="#"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
+                        <p>Emirates Landscape</p>
+                        <a href="http://www.emiratesgraphic.com/emirates-graphic/portfolio/portfolio5.php"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
                     </div>
                 </div>
             </div>
@@ -193,52 +193,40 @@
             <div class="responsive slider">                   
                 <div class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <div class="conferences_panel">
-                        <img src="img/upcoming_conference-01.png">
+                        <img src="img/blog/choosing the right logo_Thumbnail.png">
                         <div class="text_insdide_pan">
-                            <span>6 March 2017, UAE</span>
-                            <h5>Latest News Title Goes Here</h5>
+                            <span>6 January 2017, UAE</span>
+                            <h5>Choosing right “Logo” for<br> Branding</h5>
                             <hr>
-                            <p style="text-align: left;">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
-                            <button class="button_style_red_xs button_main button__aylen">Read More</button>
+                            <p style="text-align: left;">A Picture speaks a thousand words, but Logos do something more, they define...</p>
+                            <a href="http://www.emiratesgraphic.com/emirates-graphic/blog/choose_right_logo.php"><button class="button_style_red_xs button_main button__aylen">Read More</button></a>
                         </div>
                     </div>
                 </div>                           
                 <div class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <div class="conferences_panel">
-                        <img src="img/upcoming_conference-01.png">
+                        <img src="img/blog/digital marketing_Thumbnail.png">
                         <div class="text_insdide_pan">
                             <span>6 March 2017, UAE</span>
-                            <h5>Latest News Title Goes Here</h5>
+                            <h5>DIGITAL <br>MARKETING</h5>
                             <hr>
-                            <p style="text-align: left;">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
-                            <button class="button_style_red_xs button_main button__aylen">Read More</button>
+                            <p style="text-align: left;">This is a huge topic, so let's start by defining exactly what we mean when...</p>
+                            <a href="http://www.emiratesgraphic.com/emirates-graphic/blog/digital_marketing.php"><button class="button_style_red_xs button_main button__aylen">Read More</button></a>
                         </div>
                     </div>
                 </div>                           
                 <div class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <div class="conferences_panel">
-                        <img src="img/upcoming_conference-01.png">
+                        <img src="img/blog/Logo Tips_Thumbnail.png">
                         <div class="text_insdide_pan">
                             <span>6 March 2017, UAE</span>
-                            <h5>Latest News Title Goes Here</h5>
+                            <h5>7 Essential Logo Design Tips <br>For Aspiring Entrepreneurs</h5>
                             <hr>
-                            <p style="text-align: left;">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
-                            <button class="button_style_red_xs button_main button__aylen">Read More</button>
+                            <p style="text-align: left;">In entrepreneurship, you can have a great idea, a fantastic prototype, and...</p>
+                            <a href="http://www.emiratesgraphic.com/emirates-graphic/blog/logo_tips.php"><button class="button_style_red_xs button_main button__aylen">Read More</button></a>
                         </div>
                     </div>
-                </div>                        
-                <div class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                    <div class="conferences_panel">
-                        <img src="img/upcoming_conference-01.png">
-                        <div class="text_insdide_pan">
-                            <span>6 March 2017, UAE</span>
-                            <h5>Latest News Title Goes Here</h5>
-                            <hr>
-                            <p style="text-align: left;">Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
-                            <button class="button_style_red_xs button_main button__aylen">Read More</button>
-                        </div>
-                    </div>
-                </div>
+                </div>       
             </div>           
         </div>
     </div>

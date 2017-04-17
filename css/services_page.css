@@ -81,3 +81,28 @@
 	font-family: 'Montserrat-Bold';
 	font-size: 22px;
 }
+
+
+
+.for_marketgin_section_sm {
+	background-image: url(../img/services/marketing_cover_2v-01.png);
+	padding: 15% 10px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50%;
+}
+.for_marketgin_section_sm h1 {
+	font-family: 'Montserrat-Bold';
+	color: white;
+	font-size: 53px;
+	letter-spacing: -2px;
+}
+
+.for_marketgin_section_sm span {
+	color: red;
+}
+
+.for_marketgin_section_sm p {
+	color: #7F8289;
+	font-size: 20px;
+}

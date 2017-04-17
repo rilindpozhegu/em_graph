@@ -155,7 +155,6 @@
     </div>
 </div>
 
-
 <!-- Same section like last pricing section -->
 <div class="colored_section_get_c_a">
 <section class="get_free_mo_pricing">

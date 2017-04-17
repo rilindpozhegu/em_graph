@@ -6,7 +6,11 @@
     background-repeat: no-repeat; 
     /*padding: 15% 30px;*/
 }
-
+   
+.popup_page_bg {
+    background-image: url(../img/services/brand_cover-01.png);
+    /*padding: 15% 30px;*/
+}
 .pop_up_modal_package .col-md-7 {
 	padding: 15% 5%;
 }

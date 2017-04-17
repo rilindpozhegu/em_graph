@@ -56,7 +56,7 @@
                     <div class="clearfix"></div>
                     <div class="text-panel-blog">
                         <span>January 2017</span>
-                        <h5>Choosing right “Logo” for Branding</h5>
+                        <h5>Choosing right “Logo” for<br>Branding</h5>
                         <img src="img/blog/line_blg.png">
                         <p>A Picture speaks a thousand words, but Logos do something more, they define...</p>
                         <a href="blog/choose_right_logo.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
@@ -92,7 +92,7 @@
                     <div class="clearfix"></div>
                     <div class="text-panel-blog">
                         <span>Appril 2017</span>
-                        <h5>7 Essential Logo Design Tips For Aspiring Entrepreneurs</h5>
+                        <h5>7 Essential Logo Design Tips<br> For Aspiring Entrepreneurs</h5>
                         <img src="img/blog/line_blg.png">
                         <p>In entrepreneurship, you can have a great idea, a fantastic prototype, and... </p>
                         <a href="blog/logo_tips.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>

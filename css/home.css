@@ -149,6 +149,7 @@
 	text-align: center;
 	background-image: url('../portfolio/img/portfolio_all_bg_body1-01.png');
 	background-position: 50% 4%;
+	background-size: cover;
 }
 
 .our_work_home_p h2 {

@@ -79,6 +79,20 @@
     </div>
 </section>
 
+<!-- New secton on Marketing added later -->
+
+<section class="for_marketgin_section_sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s""><span>Fill Out</span><br> the questionnaire</h1>
+        <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"">Here are the main factors that affect the scope of the website project, before you proceed building your own package.</p>
+        <button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Questionnaire</button>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="get_free_mo_pricing">
     <div class="container">
         <div class="row">
@@ -93,6 +107,30 @@
         </div>
     </div>
 </section>
+
+
+<!-- Second Section Website Page -->
+
+<section class="second_section_websitep">
+    <div class="container">
+        <div class="row">
+        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <img src="img/icons/website_icon1-01.svg">
+                <h3>Define The <br>Brand Purpose</h3>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                <img src="img/icons/website_icon3-01.svg">
+                <h3>Align With <br>The Audience</h3>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <img src="img/icons/website_icon2-01.svg">
+                <h3>Evolve, Adapt <br>& Extend</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <!-- Contact Form -->
     <?php include 'contact_form_email.php';?>

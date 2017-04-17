@@ -1,15 +1,13 @@
 .slider_slick_portfolio_main {
-	padding: 10% 10px;
-	text-align: center;
 	background-image: url('../portfolio/img/portfolio_all_bg_body21-01.png');
+    background-size: cover;
+    padding-top: 11%;
+    padding-bottom: 4%;
     background-attachment: fixed;
-    background-position: center -50px;   
-    background-size: : cover;
-    background-repeat: no-repeat;
 }
 .slick-current {}
 .slider_proj_mac img {
-    padding: 20px 100px 0px 170px !important;
+    padding: 20px 100px 0px 150px !important;
     width: 100%;
 }
 
@@ -41,6 +39,16 @@
 	width: 100%;
 }
 
+.experience_text_portfolio h3{
+    font-size: 35px; 
+    font-family: 'Montserrat-Bold';
+    color: #ccc;
+    text-align: right;
+    padding-top: 0.5%;
+}
+.experience_text_portfolio2 {
+    text-align: left;
+}
 .slick-dots {
     position: absolute;
     bottom: -25px;
@@ -51,4 +59,8 @@
     margin: 0;
     list-style: none;
     text-align: center;
+}
+
+.view_project_btn_sec {
+    text-align: left;
 }

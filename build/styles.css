@@ -3542,7 +3542,7 @@ Copyright (c) 2015 Daniel Eden
 .blogpanel-1 {
   border: solid 1px #a6a8ab;
   padding: 10px 0px;
-  height: 400px;
+  /*height: 400px;*/
   margin-bottom: 10px;
 }
 .blog-panel img {
@@ -4547,6 +4547,7 @@ transition: ease-in-out all 0.1s;
 	text-align: center;
 	background-image: url('../portfolio/img/portfolio_all_bg_body1-01.png');
 	background-position: 50% 4%;
+	background-size: cover;
 }
 
 .our_work_home_p h2 {
@@ -4824,8 +4825,9 @@ transition: ease-in-out all 0.1s;
 }
 
 .colored_section_get_c_a {
-	background: #5D6A84;
+	background: rgba(93, 106, 132, 0.08);
 }
+
 /**
  * Owl Carousel v2.2.0
  * Copyright 2013-2016 David Deutsch
@@ -4846,7 +4848,11 @@ transition: ease-in-out all 0.1s;
     background-repeat: no-repeat; 
     /*padding: 15% 30px;*/
 }
-
+   
+.popup_page_bg {
+    background-image: url(../img/services/brand_cover-01.png);
+    /*padding: 15% 30px;*/
+}
 .pop_up_modal_package .col-md-7 {
 	padding: 15% 5%;
 }
@@ -4895,17 +4901,15 @@ transition: ease-in-out all 0.1s;
 	color: white !important;
 }
 .slider_slick_portfolio_main {
-	padding: 10% 10px;
-	text-align: center;
 	background-image: url('../portfolio/img/portfolio_all_bg_body21-01.png');
+    background-size: cover;
+    padding-top: 11%;
+    padding-bottom: 4%;
     background-attachment: fixed;
-    background-position: center -50px;   
-    background-size: : cover;
-    background-repeat: no-repeat;
 }
 .slick-current {}
 .slider_proj_mac img {
-    padding: 20px 100px 0px 170px !important;
+    padding: 20px 100px 0px 150px !important;
     width: 100%;
 }
 
@@ -4937,6 +4941,16 @@ transition: ease-in-out all 0.1s;
 	width: 100%;
 }
 
+.experience_text_portfolio h3{
+    font-size: 35px; 
+    font-family: 'Montserrat-Bold';
+    color: #ccc;
+    text-align: right;
+    padding-top: 0.5%;
+}
+.experience_text_portfolio2 {
+    text-align: left;
+}
 .slick-dots {
     position: absolute;
     bottom: -25px;
@@ -4948,6 +4962,10 @@ transition: ease-in-out all 0.1s;
     list-style: none;
     text-align: center;
 }
+
+.view_project_btn_sec {
+    text-align: left;
+}
 /*=========================*/
 /*	  PORTFOLIO STYLES     */
 /*=========================*/
@@ -4956,8 +4974,9 @@ transition: ease-in-out all 0.1s;
 	background-image: url('../portfolio/img/portfolio_all_bg_body1-01.png');
     background-attachment: fixed;
     background-position: center -50px;   
-    background-size: : cover;
-    background-repeat: no-repeat;
+    background-size: : cover !important;
+    width: 100%;
+    /*background-repeat: no-repeat;*/
 }
 
 .first_section_port {
@@ -5015,13 +5034,22 @@ transition: ease-in-out all 0.1s;
 }
 
 .last_buttons_portfolio button i {
-	background: red;
+	background: white;
+	color: red !important;
 	border-radius: 50px;
-	color: white !important;
 	border: transparent solid 1px;
 	padding: 7px 10px;
 	height: 30px;
+	font-weight: bolder;
 	width: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.last_buttons_portfolio button i:hover {
+	background: red;
+	color: white !important;
+	/*border: solid 1px #ccc;*/
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 /*----------------------*/
 /*	Pricing Page st     */
@@ -5748,6 +5776,31 @@ Responsive Part
 	margin-top: 5px;
 	font-family: 'Montserrat-Bold';
 	font-size: 22px;
+}
+
+
+
+.for_marketgin_section_sm {
+	background-image: url(../img/services/marketing_cover_2v-01.png);
+	padding: 15% 10px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50%;
+}
+.for_marketgin_section_sm h1 {
+	font-family: 'Montserrat-Bold';
+	color: white;
+	font-size: 53px;
+	letter-spacing: -2px;
+}
+
+.for_marketgin_section_sm span {
+	color: red;
+}
+
+.for_marketgin_section_sm p {
+	color: #7F8289;
+	font-size: 20px;
 }
 @charset 'UTF-8';
 /* Slider */
