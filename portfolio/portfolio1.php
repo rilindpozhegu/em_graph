@@ -117,7 +117,7 @@
         <div class="row">
             <div class="col-md-4 col-xs-12">
                 <a href="#go_top">
-                    <button><i class="fa fa-angle-left" aria-hidden="true"></i> Previous Project</button>
+                    <a href="portfolio12.php"><button><i class="fa fa-angle-left" aria-hidden="true"></i> Previous Project</button></a>
                 </a>
             </div>
             <div class="col-md-4 col-xs-12">
@@ -129,7 +129,7 @@
             </div>
             <div class="col-md-4 col-xs-12">
                 <a href="">
-                    <button>Next Project <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                    <a href="portfolio2.php"><button>Next Project <i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
                 </a>
             </div>
         </div>
@@ -146,9 +146,6 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="../build/scripts.js"></script>
-    <script type="text/javascript">
-        
-    </script>
 </body>
 
 </html>

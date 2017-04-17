@@ -42,12 +42,12 @@
 <div class="clearfix"></div>
 <!-- Blog section panels -->
 <section>
-    <div class="conatiner" style="padding: 40px 0px;">
+    <div class="conatiner" style="padding: 80px 0px;">
     <!-- Blog Panels group -->
-        <div class="col-md-8 col-lg-8 col-xs-12 col-sm-12">
+        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-xs-12 col-sm-12" style="padding-bottom: 60px;">
             <div class="col-md-4 col-sm-12 col-xs-12 blog-panel">
                 <div class="blogpanel-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                    <img src="img/blog/20160601182105-604x270.jpeg">
+                    <img src="img/blog/choosing the right logo_Cover.png">
                     <div class="social-panel-icons">
                         <button><i class="fa fa-facebook" aria-hidden="true"></i></button>
                         <button><i class="fa fa-instagram" aria-hidden="true"></i></button>
@@ -55,17 +55,17 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-panel-blog">
-                        <span>July J 2016</span>
-                        <h5>5 Millionare...</h5>
+                        <span>January 2017</span>
+                        <h5>Choosing right “Logo” for Branding</h5>
                         <img src="img/blog/line_blg.png">
-                        <p>Long gone are the days when wealthy and successful individuals held traditional, high-paying, 9-5 jobs. ...</p>
-                        <a href="blog/5millionare.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
+                        <p>A Picture speaks a thousand words, but Logos do something more, they define...</p>
+                        <a href="blog/choose_right_logo.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12 blog-panel">
                 <div class="blogpanel-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                    <img src="img/blog/20160513153214-604x270.jpeg">
+                    <img src="img/blog/digital marketing_Cover.png">
                     <div class="social-panel-icons">
                         <button><i class="fa fa-facebook" aria-hidden="true"></i></button>
                         <button><i class="fa fa-instagram" aria-hidden="true"></i></button>
@@ -73,17 +73,17 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-panel-blog">
-                        <span>July J 2016</span>
-                        <h5>14 Things...</h5>
+                        <span>Fabuary 2017</span>
+                        <h5>DIGITAL<br> MARKETING</h5>
                         <img src="img/blog/line_blg.png">
-                        <p>Having close access to ultra-successful people can yield some pretty incredible information about who they ...</p>
-                        <a href="blog/14things.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
+                        <p>This is a huge topic, so let's start by defining exactly what we mean when...</p>
+                        <a href="blog/digital_marketing.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12 blog-panel">
                 <div class="blogpanel-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                    <img src="img/blog/20160308074745-604x270.jpeg">
+                    <img src="img/blog/Logo Tips_Cover.png">
                     <div class="social-panel-icons">
                         <button><i class="fa fa-facebook" aria-hidden="true"></i></button>
                         <button><i class="fa fa-instagram" aria-hidden="true"></i></button>
@@ -91,16 +91,16 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="text-panel-blog">
-                        <span>July J 2016</span>
-                        <h5>6 Success...</h5>
+                        <span>Appril 2017</span>
+                        <h5>7 Essential Logo Design Tips For Aspiring Entrepreneurs</h5>
                         <img src="img/blog/line_blg.png">
-                        <p>Building a startup is tricky business. I have started several, and have had <br>some winners ... </p>
-                        <a href="blog/6success.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
+                        <p>In entrepreneurship, you can have a great idea, a fantastic prototype, and... </p>
+                        <a href="blog/logo_tips.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
                     </div>
                 </div>
             </div>
             <div class="clearfix"></div>
-            <div class="col-md-4 col-sm-12 col-xs-12 blog-panel">
+            <!-- <div class="col-md-4 col-sm-12 col-xs-12 blog-panel">
                 <div class="blogpanel-1 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <img src="img/blog/20160701173050-604x270.jpeg">
                     <div class="social-panel-icons">
@@ -244,12 +244,12 @@
                         <a href="blog/enterpreneurship.php"><button class="button_style_red_xs button_main button__aylen">READ MORE</button></a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
 
 
     <!-- Blog Lastest Posts -->
-        <div class="col-md-4 col-lg-4 mobile-d-n right-panel row">
+        <!-- <div class="col-md-4 col-lg-4 mobile-d-n right-panel row">
             <div class="col-md-12 first-right_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                 <p>Follow us</p>
                 <img src="img/blog/line_blg.png">
@@ -390,7 +390,7 @@
                 <div class="clearfix"></div>
             </div>
 
-        </div>
+        </div> -->
     </div>
 </section>
     

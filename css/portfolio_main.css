@@ -1,0 +1,54 @@
+.slider_slick_portfolio_main {
+	padding: 10% 10px;
+	text-align: center;
+	background-image: url('../portfolio/img/portfolio_all_bg_body21-01.png');
+    background-attachment: fixed;
+    background-position: center -50px;   
+    background-size: : cover;
+    background-repeat: no-repeat;
+}
+.slick-current {}
+.slider_proj_mac img {
+    padding: 20px 100px 0px 170px !important;
+    width: 100%;
+}
+
+.slick-prev:before, .slick-next:before {	
+    font-family: 'slick';
+    font-size: 49px !important;
+    line-height: 1;
+    opacity: .75;
+    color: #ff0202 !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+.responsive_portfolio h1 {
+	color: #2A2E3A;
+	text-align: left;
+	font-family: 'Montserrat-Bold';
+	margin-top: 0px;
+	font-size: 47px;
+}
+
+.responsive_portfolio p {
+	text-align: left;
+}
+.slider_proj_mac {
+	text-align: center !important;
+}
+.slider_proj_mac img{
+	padding: 20px 150px;
+	width: 100%;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: -25px;
+    display: block;
+    width: 100%;
+    left: 51px !important;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}

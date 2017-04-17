@@ -18,7 +18,7 @@
    		display: none;
   	}
     .header_title_cover {
-	    padding: 34% 6px;
+	    padding: 4% 6px;
 	}
 	.header_title_cover h2 {
 	    font-size: 47px;
@@ -174,5 +174,56 @@
 		text-align: center;
 		padding-bottom: 20px;
 	}
+
+	/*Portfolio Page*/
+	.slider_slick_portfolio_main {
+		padding-top: 25%;
+		padding-bottom: 1%;
+	}
+	.responsive_portfolio h1{
+		font-size: 30px;
+	}
+	.slider_proj_mac img {
+	    padding: 20px 0px 0px 0px !important;
+	    width: 100%;
+	}
+
+	.first_section_port {
+		padding-top: 25%;
+	}
+
+	.slick-dots {
+		left: 0px !important;
+	}
+
+	.cover_section_website {
+		padding-top: 20%;
+	}
+
+	.cover_section_marketing  {
+		padding-top: 20%;
+	}
+
+	.cover_section_branding {
+		padding-top: 20%;
+	}
+
+
+	.pop_up_modal_package {
+	    background-image: none;
+	    background-color: #0D141C;
+	    background-size: cover;
+	    background-position: 70%;
+	    background-repeat: no-repeat; 
+	    padding: 15% 30px;
+	    text-align: center;
+	}
+	.pop_up_modal_package input {
+		width: 100%;
+	}
+	.pop_up_modal_package button {
+		width: 100%;
+	}
+
 }
 

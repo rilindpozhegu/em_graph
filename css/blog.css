@@ -139,3 +139,38 @@
 .text-body-blog img {
   width: 100%;
 }
+
+.bog_main_text_all h1 {
+  font-family: 'Montserrat-Regular';
+  text-align: center;
+}
+
+.section_top_iner_blogs1 {
+  background-image: url('../img/blog/Logo Tips_Cover.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20% 20px;
+  color: white;
+  background-attachment: fixed; 
+}
+
+.section_top_iner_blogs2 {
+  background-image: url('../img/blog/digital marketing_Cover.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20% 20px;
+  color: white;
+  background-attachment: fixed; 
+}
+
+.section_top_iner_blogs3 {
+  background-image: url('../img/blog/choosing the right logo_Cover.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20% 20px;
+  color: white;
+  background-attachment: fixed; 
+}

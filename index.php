@@ -35,19 +35,23 @@
         <video autoplay="autoplay" loop="loop" id="bgvid" poster="img/home_coffe_last-01.png">
             <source src="http://taxify.co/wp-content/uploads/2014/06/file.mp4" type="video/mp4" /> 
         </video>
-        <div class="col-md-12 header_title_cover">
-            <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Free Custom Design</h1>
-            <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">OF YOUR NEW HOMEPAGE, DELIVERED IN 5 DAYS, NO COST OR <br>FUTURE OBLIGATION. GUARANTEED.</p>
-        </h2>
-        <button class="button_style_red_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View Portfolio</button>
-        <button class="button_style_white_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started</button>
-        </div>
     </section>
 </section>
 </form>
 
+        <div class="col-md-12 header_title_cover">
+            <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Free Custom Design</h2>
+            <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">OF YOUR NEW HOMEPAGE, DELIVERED IN 5 DAYS, NO COST OR <br>FUTURE OBLIGATION. GUARANTEED.</p>
+            <a href="portfolio_main.php"><button class="button_style_red_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View Portfolio</button></a>
+            <a href="our_story.php"><button class="button_style_white_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Our Story</button></a>
+            <section id="section05" class="demo col-md-12 smooth">
+                <a href="#section122" class="smooth"><span></span></a>
+            </section>
+        </div>
+
+
 <!-- First Section on homepage -->
-<section class="section_one_homepage">
+<section class="section_one_homepage" id="section122">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 first_inner_section_one">
@@ -103,19 +107,19 @@
             <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Some of our work</h2>
             <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">At Emirates Graphic, we are proud of our past projects and accomplishments, and nothing brings us more satisfaction than working with<br> our clients towards their success. Here, you can view some of our work in order to get an idea of what you’re getting when you entrust<br> us with designing your website, helping solidify your brand identity, or managing your online presence.</p>
 
-            <div class="col-md-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="mockup_panel">
                     <div class="bgcolor"></div>
                     <img src="img/mockups/world_mockup-01.png" class="title img-responsive">
                     <div class="overlay"></div>
-                    <div class="button_in_panel_h col-md-12">
+                    <div class="button_in_panel_h">
                         <p>SWISS CANONICA</p>
                         <a href="#"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="mockup_panel">
                     <div class="bgcolor"></div>
                     <img src="img/mockups/tax_mockup-01.png" class="title img-responsive">
@@ -128,7 +132,7 @@
             </div>
 
 
-            <div class="col-md-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="mockup_panel">
                     <div class="bgcolor"></div>
                     <img src="img/mockups/uae_mockup-01.png" class="title img-responsive">
@@ -140,7 +144,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+            <div class="col-md-6 wow fadeInUp small_padding-lr" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <div class="mockup_panel">
                     <div class="bgcolor"></div>
                     <img src="img/mockups/landscape_mockup-01.png" class="title img-responsive">
@@ -153,7 +157,7 @@
             </div>
 
             <div class="col-md-12">
-                <button class="button_style_red_sm button_main button__aylen">View All Portfolio</button>
+                <a href="portfolio_main.php"><button class="button_style_red_sm button_main button__aylen">View All Portfolio</button></a>
             </div>
 
         </div>
@@ -172,7 +176,7 @@
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"><span class="counter" style="display: inline-block;">350</span> clients</p>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s"><span class="counter" style="display: inline-block;">5000</span> coffees</p>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s"><span class="counter" style="display: inline-block;">20</span> countries</p>
-                <button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".6s">Get In Touch</button>
+                <a href="contact.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".6s">Get In Touch</button></a>
             </div>
         </div>
     </div>
@@ -252,7 +256,7 @@
             <div class="col-md-6 bring_text_home">
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Bring your<br> next project to life</h1>
                 <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact us now. Really. Right now.</h2>
-                <button class="button_style_white_sm wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact Us</button>
+                <a href="contact.php"><button class="button_style_white_sm wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact Us</button></a>
             </div>
         </div>
     </div>

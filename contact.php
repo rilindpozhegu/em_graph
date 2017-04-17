@@ -29,15 +29,15 @@
 <section class="information_contact_section">
     <div class="container">
         <div class="col-md-4 col-xs-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-            <p>Cluster Y, Swiss Tower, 34th Floor, Office 15</p>
+            <p><i class="fa fa-location-arrow" aria-hidden="true"></i> Cluster Y, Swiss Tower, 34th Floor, Office 15</p>
             <p>Jumeirah Lake Towers, Dubai, UAE</p>
         </div>
         <div class="col-md-4 col-xs-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
-            <p>Tel : +372 (546) 05000 </p>
-            <p>Mob : +971 (050) 912 4567</p>
+            <p><i class="fa fa-phone" aria-hidden="true"></i> Tel : +372 (546) 05000 </p>
+            <p><i class="fa fa-mobile" aria-hidden="true"></i> Mob : +971 (050) 912 4567</p>
         </div>
         <div class="col-md-4 col-xs-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-            <p>info@emiratesgraphic.com</p>
+            <p><i class="fa fa-envelope" aria-hidden="true"></i> info@emiratesgraphic.com</p>
         </div>
     </div>
 </section>

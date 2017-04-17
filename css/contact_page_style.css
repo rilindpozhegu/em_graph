@@ -8,7 +8,7 @@
 .information_contact_section {
 	background-color: #F2F2F2;
 	padding: 30px;
-	text-align: center;
+	text-align: left;
 }
 
 .information_contact_section p {
@@ -30,7 +30,7 @@
 .contact_page_inputs .contact_forms_section {
   background-color: white;
   padding: 60px 6px;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .contact_page_inputs .input_style{	

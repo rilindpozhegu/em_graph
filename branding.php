@@ -33,7 +33,7 @@
             <div class="col-md-6 text_about_cover">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s"><span>We build</span> inspiring platforms for inspiring<span> brands.</span></h1>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                <button class="button_style_gray button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio</button>
+                <a href="portfolio_main.php"><button class="button_style_gray button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio</button></a>
             </div> 
         </div>
     </div>
@@ -49,7 +49,7 @@
             <div class="col-md-6 get_freee_text">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We build <span>websites</span> that work</h1>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                <button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-6" style="padding-top: 3%;">
                 <img src="img/services/services_img11-01.png" class="img-responsive wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">
