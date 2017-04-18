@@ -225,5 +225,11 @@
 		width: 100%;
 	}
 
+	.questionnaire_section {
+	    padding: 26% 10px 0px;
+	    background-color: #0B1016;
+	    color: white;
+	}
+
 }
 
