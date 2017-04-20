@@ -60,7 +60,7 @@
                 <hr class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s">
                 <h5  class="other_f">Emirates Graphic made a huge change on our business. We coulnd’t believe the growth of our company since we got their service.</h5>
                 <p class="other_f"><img src="img/small_sacha-01.png" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s"> &nbsp;Sacha Christe, Swiss Canonica Chocolate</p>
-                <button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Our Story</button>
+                <a href="our_story.php"><button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Our Story</button></a>
             </div>
             <div class="col-md-6 no_padding second_inner_section_one">
                 <img src="img/mockups/mockup_one_home-01.png" class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
@@ -172,10 +172,10 @@
                 <img src="img/mockups/big_mockup-01.png" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
             </div>
             <div class="statistics_text_right col-md-3">
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s"><span class="counter" style="display: inline-block;">4</span> years</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"><span class="counter" style="display: inline-block;">350</span> clients</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s"><span class="counter" style="display: inline-block;">5000</span> coffees</p>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s"><span class="counter" style="display: inline-block;">20</span> countries</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s"><span class="counter" style="display: inline-block;">5</span> years</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"><span class="counter" style="display: inline-block;">16</span> employees</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s"><span class="counter" style="display: inline-block;">278 </span> clients</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s"><span class="counter" style="display: inline-block;">1</span> vision</p>
                 <a href="contact.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".6s">Get In Touch</button></a>
             </div>
         </div>

@@ -35,6 +35,8 @@ module.exports = function(grunt) {
 					'js/active_property.js',
 					'js/pointer_navigatior.js', //Pointer Navigation Middle
 
+					// CRM Script
+					// 'js/crm_script.js',
 					],
 
 				dest: 'build/scripts.js'

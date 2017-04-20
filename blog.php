@@ -33,7 +33,7 @@
             <div class="col-md-6 text_blog_cover">
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Read Our Blog</h1>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our team is always eager to share insight and interesting information on the marketing and web development industry. Our blog provides clients and visitors with an opportunity to learn more about our employees and what we do at Emirates Graphic.</p>
-                <button class="button_style_gray button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio</button>
+                <a href="portfolio_main.php"><button class="button_style_gray button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio</button></a>
             </div>
         </div>
     </div>

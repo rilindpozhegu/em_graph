@@ -164,7 +164,7 @@
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Get <span>Started</span></h1>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">After receiving your input from the our initial call we will then have a mockup of the homepage of your new website within 4 business days.</p>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
+                <a href="get_started.php"><button class="button_style_red_md button_main button__aylen  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-5 col-md-offset-1">
                 <img src="img/mockups/tax_mockup-01.png" class=" wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">
