@@ -29,7 +29,7 @@
 <section class="slider_slick_portfolio_main">
     <div class="container">
         <div class="row"> 
-            <div class="responsive_portfolio col-md-12">
+            <div class="responsive_portfolio">
                 <div class="slider_proj_mac">
                     <div class="col-md-6">
                         <h1>Utopia</h1>

@@ -48,7 +48,7 @@ $('.responsive_portfolio').slick({
   slidesToShow: 1,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 4000,
+  autoplaySpeed: 11114000,
   dots: true,
   responsive: [
     {
