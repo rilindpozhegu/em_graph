@@ -58,6 +58,25 @@
     </div>
 </section>
 
+
+<!-- View Brand Guideline -->
+
+<section class="view_brand_guideline_s">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-7">
+                <img src="img/services/services_marketing_cards-01.png" class="img-responsive wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".4s">
+            </div>
+            <div class="col-md-3 col-md-offset-1">
+                <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">View a Brand Guideline</h1>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
+                <a href="Utopia Brand Guidelines.pdf"><button class="button_style_red_sm  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View</button></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- Second Section Website Page -->
 
 <section class="second_section_websitep">
@@ -81,59 +100,33 @@
 </section>
 
 
-<!-- Three Circles hover effect -->
+<!-- Three W's hover effect -->
+
+
 <section class="three_circles_branding">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">                
-                <ul class="ch-grid">
-                    <li>
-                        <div class="ch-item">               
-                            <div class="ch-info">
-                                <div class="ch-info-front ch-img-1"></div>
-                                <div class="ch-info-back">
-                                    <h3>why</h3>
-                                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                                </div>  
-                            </div>
-                        </div>
-                    </li>
-                </ul>
+            <div class="col-md-4 no_padding"> 
+                <div class="w_s_panel">               
+                    <h3>why</h3>
+                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                </div>
             </div>
-            <div class="col-md-4">                
-                <ul class="ch-grid">
-                    <li>
-                        <div class="ch-item">               
-                            <div class="ch-info">
-                                <div class="ch-info-front ch-img-2"></div>
-                                <div class="ch-info-back">
-                                    <h3>how</h3>
-                                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                                </div>  
-                            </div>
-                        </div>
-                    </li>
-                </ul>
+            <div class="col-md-4 no_padding"> 
+                <div class="w_s_panel">               
+                    <h3>how</h3>
+                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                </div>
             </div>
-            <div class="col-md-4">                
-                <ul class="ch-grid">
-                    <li>
-                        <div class="ch-item">               
-                            <div class="ch-info">
-                                <div class="ch-info-front ch-img-3"></div>
-                                <div class="ch-info-back">
-                                    <h3>what</h3>
-                                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                                </div>  
-                            </div>
-                        </div>
-                    </li>
-                </ul>
+            <div class="col-md-4 no_padding"> 
+                <div class="w_s_panel">               
+                    <h3>what</h3>
+                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                </div>
             </div>
         </div>
     </div>
 </section>
-
 
 <!-- Contact Form -->
     <?php include 'contact_form_email.php';?>
