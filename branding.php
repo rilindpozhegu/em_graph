@@ -109,19 +109,19 @@
             <div class="col-md-4 no_padding"> 
                 <div class="w_s_panel">               
                     <h3>why</h3>
-                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                    <p>Why your company does what it does is the reason people choose you over competitors. Allow us to help you define this reason and show it in the best way.</p>
                 </div>
             </div>
             <div class="col-md-4 no_padding"> 
                 <div class="w_s_panel">               
                     <h3>how</h3>
-                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                    <p>Tell your customers about your superior methods and what sets you apart. Achieving your goals in the right way is essential and brand defining.</p>
                 </div>
             </div>
             <div class="col-md-4 no_padding"> 
                 <div class="w_s_panel">               
                     <h3>what</h3>
-                    <p>This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                    <p>Your customers need to be aware of precisely what you do. Positioning your brand properly is vital in competitive markets.</p>
                 </div>
             </div>
         </div>

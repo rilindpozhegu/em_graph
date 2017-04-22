@@ -5344,7 +5344,7 @@ html {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:1000px) {
     .navbar {
         padding: 20px 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -5500,7 +5500,7 @@ Dropdown
   color: red;
 }
 
-@media (min-width: 768px){
+@media (min-width: 1000px){
   .navbar-right .dropdown-menu {
       right: -14px;
       left: auto;
@@ -5513,7 +5513,7 @@ Responsive Part
 ///////////////////////////////////////////////////
 */
 
-@media only screen and (min-width: 844px) {
+@media only screen and (min-width: 1000px) {
     .desktop-d-n {
         display: none;
     }
@@ -5521,7 +5521,7 @@ Responsive Part
 
 /*Mobile Version*/
 
-@media only screen and (max-width: 844px) {
+@media only screen and (max-width: 1000px) {
     .mobile-d-n {
         display: none;
     }
@@ -6232,7 +6232,7 @@ Responsive Part
 .history-tl-container ul.tl li{
     list-style: none;
     margin:auto;
-    margin-left:117px;
+    margin-left:187px;
     min-height:150px;
     /*background: rgba(255,255,0,0.1);*/
     border-left:2px solid rgba(93, 106, 132, 0.39);
@@ -6304,6 +6304,7 @@ ul.tl li .timestamp{
   color: white;
 	margin:0 auto;
 	text-align:center;
+  background: rgba(0, 0, 0, 0.28);
 }
 
 #video-landing video {
@@ -6316,15 +6317,17 @@ ul.tl li .timestamp{
   z-index: -100;
 }
 
-
+ 
 /*======================*/
 
 /*	 Responzive Part    */
 
 /*======================*/
 
+
+/*TABLET VERSION*/
 /*Only in desktop*/
-@media only screen and (min-width: 844px) {
+@media only screen and (min-width: 1024px) {
     .desktop-d-n {
       display: none;
     }
@@ -6332,7 +6335,31 @@ ul.tl li .timestamp{
 }
 
 /*Only on Mobile*/
-@media only screen and (max-width: 844px) {
+@media only screen and (max-width: 1024px) {
+    .mobile-d-n {
+   		display: none;
+  	}  	
+    .header_title_cover {
+	    padding: 2% 6px;
+	}
+}
+
+
+/*	MOBILE 	*/
+/*Only in desktop*/
+@media only screen and (min-width: 1000px) {
+    .desktop-d-n {
+      display: none;
+    }
+
+}
+
+
+
+ 
+
+/*Only on Mobile*/
+@media only screen and (max-width: 1000px) {
     .mobile-d-n {
    		display: none;
   	}

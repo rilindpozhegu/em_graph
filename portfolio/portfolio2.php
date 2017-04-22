@@ -48,7 +48,7 @@
             </div>
             <div class="col-md-5 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" style="padding-top: 10%;">
                 <h3 class="second_title_portfolioh3">Design & Development</h3>
-                <p class="portfolio_paragraphs">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea</p>
+                <p class="portfolio_paragraphs"> A website that looks amazing but is also perfectly functional and user-friendly. We deliver the whole package, making your ideas come to life and bringing your business out on the Internet.</p>
                 <a href="http://swisscanonica-uae.com/" target="_blank"><button class="button_style_red_md button_main button__aylen">Visit Website</button></a>
             </div>
         </div>
@@ -63,8 +63,8 @@
         <div class="row">
             <div class="col-md-5 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" style="padding-top: 14%;">
                 <h3 class="second_title_portfolioh3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Responsive <br>Design </h3>
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea</p>
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea</p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Over 87% of people do the majority of their browsing on mobile devices.</p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Our websites are developed for the modern digital age. Where people use all sorts of devices of all sizes, you want your website to look perfect no matter the format. We ensure that every single page will adapt to your users’ devices.</p>
             </div>
             <div class="col-md-7 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/swiss/swiss_p2-01.png" class="img-responsive">
@@ -101,8 +101,7 @@
         <div class="row">
             <div class="col-md-5" style="padding-top: 11%;">
                 <h3 class="second_title_portfolioh3 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Company <br>Profile </h3>
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea</p>
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea</p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Let your company profile reflect and represent your firm in the right way. Make sure you create the appropriate image of your firm while delivering all the necessary information in a stunning format and through elegant design. </p>
                 <a href="http://swisscanonica-uae.com/" target="_blank"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Visit Website</button></a>
             </div>
             <div class="col-md-7 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">

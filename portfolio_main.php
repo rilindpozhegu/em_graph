@@ -50,7 +50,7 @@
                         </div>
                     </div>
                 </div>  
-                <div class="slider_proj_mac">
+                <!-- <div class="slider_proj_mac">
                     <div class="col-md-6">
                         <h1>Swiss Canonica</h1>
                     </div>
@@ -69,7 +69,7 @@
                             <a href="http://swisscanonica-uae.com/" target="_blank"><button class="button_style_red_md button_main button__aylen">Visit Website</button></a>
                         </div>
                     </div>
-                </div>  
+                </div>  --> 
                 <div class="slider_proj_mac">
                     <div class="col-md-6">
                         <h1>Arborec</h1>

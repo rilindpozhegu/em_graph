@@ -4,8 +4,10 @@
 
 /*======================*/
 
+
+/*TABLET VERSION*/
 /*Only in desktop*/
-@media only screen and (min-width: 844px) {
+@media only screen and (min-width: 1024px) {
     .desktop-d-n {
       display: none;
     }
@@ -13,7 +15,31 @@
 }
 
 /*Only on Mobile*/
-@media only screen and (max-width: 844px) {
+@media only screen and (max-width: 1024px) {
+    .mobile-d-n {
+   		display: none;
+  	}  	
+    .header_title_cover {
+	    padding: 2% 6px;
+	}
+}
+
+
+/*	MOBILE 	*/
+/*Only in desktop*/
+@media only screen and (min-width: 1000px) {
+    .desktop-d-n {
+      display: none;
+    }
+
+}
+
+
+
+ 
+
+/*Only on Mobile*/
+@media only screen and (max-width: 1000px) {
     .mobile-d-n {
    		display: none;
   	}

@@ -37,22 +37,22 @@
     <div class="item active">
       <img src="img/backgorund/are_we_good_bg-01.png" alt="...">
       <div class="carousel-caption">
-        <h1>Our Vision</h1>
-        <p>Emirates Graphic aims to be a leader in the web design, marketing, and branding world. We want to provide innovative and creative products and services to our clients and achieve success together.</p>
+        <h1>Our Mission</h1>
+        <p>At Emirates Graphic, we create innovative and original products in order to bring success to all of our clients. We believe that maintaining a strong relationship with our clients helps us grow and achieve greatness together.</p>
       </div>
     </div>
     <div class="item">
       <img src="img/backgorund/are_we_good_bg-01.png" alt="...">
       <div class="carousel-caption">
         <h1>Our Vision</h1>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+        <p>Emirates Graphic aims to be the leading marketing agency in the UAE by 2020. We want to have a positive impact on the growing economy in the region.</p>
       </div>
     </div>
     <div class="item">
       <img src="img/backgorund/are_we_good_bg-01.png" alt="...">
       <div class="carousel-caption">
-        <h1>Our Vision</h1>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+        <h1>Our Values</h1>
+        <p>We believe that our employees are our greatest resource and so treating them well and providing a pleasant work environment, as well as empowering them to make their own decisions, allows them to grow with the company. We also believe in the Swiss standard for quality, and aim to provide the highest quality products and services to all our clients.</p>
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p>Founder Sacha Christe decides to make a<br> website for one of his business ventures.<br> Extremely dissatisfied with the offerings<br> of most web-design firms,<br> he opens a marketing agency that<br> aims to be original, innovative,<br> and consumer-friendly.</p>
                               </div>
                           </div>
                         </li>
@@ -99,7 +99,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p>The first core team is assembled in<br> Switzerland. The company starts doing<br> mainly graphic design work for <br>local firms.</p>
                               </div>
                           </div>
                         </li>
@@ -110,7 +110,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p> After finding success in graphic design,<br> the company expands by adding developers<br> to the team. Emirates Graphic starts<br> developing websites from scratch.</p>
                               </div>
                           </div>
                         </li>
@@ -121,7 +121,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p>Founder Sacha moves to Dubai and brings <br>the company with him. In this fast-paced,<br> changing environment, Emirates Graphic<br> finds opportunities to work on more <br>innovative projects.</p>
                               </div>
                           </div>
                         </li>
@@ -132,7 +132,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p>Emirates Graphic starts providing digital<br> marketing services due to the clients’<br> needs. The company opens its first <br>office in Dubai, moving into the <br>Swiss Tower in JLT.</p>
                               </div>
                           </div>
                         </li>
@@ -143,7 +143,7 @@
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
                               <h4>Founded by Sacha Christe</h4>
-                              <p>We love entrepreneurs and small<br> business owners. We understand<br>that the primary purpose of<br>a website is not to look good<br>but to attract new leads and<br>customers.</p>
+                              <p>More employees join the company in Dubai as<br> Emirates Graphic establishes itself<br> locally. The company, extremely grateful<br> to its loyal clients and their<br> wonderful reception, grows<br> more and more within the UAE market.</p>
                               </div>
                           </div>
                         </li>

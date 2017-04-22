@@ -12,7 +12,7 @@ html {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:1000px) {
     .navbar {
         padding: 20px 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -168,7 +168,7 @@ Dropdown
   color: red;
 }
 
-@media (min-width: 768px){
+@media (min-width: 1000px){
   .navbar-right .dropdown-menu {
       right: -14px;
       left: auto;
@@ -181,7 +181,7 @@ Responsive Part
 ///////////////////////////////////////////////////
 */
 
-@media only screen and (min-width: 844px) {
+@media only screen and (min-width: 1000px) {
     .desktop-d-n {
         display: none;
     }
@@ -189,7 +189,7 @@ Responsive Part
 
 /*Mobile Version*/
 
-@media only screen and (max-width: 844px) {
+@media only screen and (max-width: 1000px) {
     .mobile-d-n {
         display: none;
     }

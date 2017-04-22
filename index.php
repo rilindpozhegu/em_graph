@@ -28,12 +28,12 @@
 
 <!-- Header Section On homepage -->
 
-
 <form id="video-landing" class="home_page_hero">
 <section class="video-holder">
-    <section id="video-landing">
+    <section id="video-landing" class="hm-black-strong">
         <video autoplay="autoplay" loop="loop" id="bgvid" poster="img/non_video_display-01.png">
             <source src="http://taxify.co/wp-content/uploads/2014/06/file.mp4" type="video/mp4" /> 
+            <!-- <source src="http://mdbootstrap.com/images/video/Agua-natural.mp4" type="video/mp4" /> -->
         </video>
     </section>
 </section>
@@ -58,8 +58,8 @@
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The power of design:</h1>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">At Emirates Graphic, we love to challenge the status quo and we won’t hesitate to push boundaries in order to fulfil your vision and help you reach new heights.Our carefully handpicked team of professionals is passionate about helping clients communicate and resonate with their audience using creative, innovative, and intelligent problem solving. We create unique and beautiful websites, help our clients market their business and reach their target audience in the most effective ways, and strengthen brands to successfully tell their story.</p>
                 <hr class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s">
-                <h5  class="other_f">Emirates Graphic made a huge change on our business. We coulnd’t believe the growth of our company since we got their service.</h5>
-                <p class="other_f"><img src="img/small_sacha-01.png" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s"> &nbsp;Sacha Christe, Swiss Canonica Chocolate</p>
+                <h5  class="other_f">Sacha has completed several projects for us over the past year. They were delivered on time and exceeded all expectations, as expected of a Swiss company. We look forward to working with them again in the future.</h5>
+                <p class="other_f"><img src="img/0b01678.jpg" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s" style="border-radius: 50px; width:40px;"> &nbsp;Philippe Barrois, Swiss Canonica Chocolate</p>
                 <a href="our_story.php"><button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Our Story</button></a>
             </div>
             <div class="col-md-6 no_padding second_inner_section_one">
