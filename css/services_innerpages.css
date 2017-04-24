@@ -37,7 +37,8 @@
 }
 
 .second_section_websitep img {
-	width: 70%;
+	width: 55%;
+	padding-top: 20px;
 }
 
 .second_section_websitep h3 {
@@ -61,6 +62,11 @@
 	font-size: 16px;
 }
 
+.line_backgorund_img {
+    background-image: url(../portfolio/img/portfolio_all_bg_body1-01.png);
+    background-position: 50% 4%;
+    background-size: cover;
+}
 /*Branding Page*/
 
 /*Three W's*/

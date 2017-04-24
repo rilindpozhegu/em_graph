@@ -10,7 +10,7 @@
       <div class="col-md-7">
           <p>FEATURE COMMING SOON</p>
           <h1><span>Build</span> Your Package</h1>
-          <h5>Subscribe to get updates and be alerted as soon as<br> this feature launches.</h5>
+          <h5>Subscribe to get updates and be<br> alerted as soon as this feature launches.</h5>
           <input type="email" name="email_popup" placeholder="Your Email"> <button class="button_style_red_sm button_main button__aylen">Subscribe</button>
       </div>
     </div>

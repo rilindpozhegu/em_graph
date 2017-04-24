@@ -59,7 +59,7 @@
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">At Emirates Graphic, we love to challenge the status quo and we won’t hesitate to push boundaries in order to fulfil your vision and help you reach new heights.Our carefully handpicked team of professionals is passionate about helping clients communicate and resonate with their audience using creative, innovative, and intelligent problem solving. We create unique and beautiful websites, help our clients market their business and reach their target audience in the most effective ways, and strengthen brands to successfully tell their story.</p>
                 <hr class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s">
                 <h5  class="other_f">Sacha has completed several projects for us over the past year. They were delivered on time and exceeded all expectations, as expected of a Swiss company. We look forward to working with them again in the future.</h5>
-                <p class="other_f"><img src="img/0b01678.jpg" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s" style="border-radius: 50px; width:40px;"> &nbsp;Philippe Barrois, Swiss Canonica Chocolate</p>
+                <p class="other_f"><img src="img/0b01678.jpg" class="wow fadeInLeft" data-wow-duration="0.2s" data-wow-delay=".1s" style="border-radius: 50px; width:40px;"> &nbsp;Philippe Barrois, GM Middle East, Swiss Canonica</p>
                 <a href="our_story.php"><button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Our Story</button></a>
             </div>
             <div class="col-md-6 no_padding second_inner_section_one">

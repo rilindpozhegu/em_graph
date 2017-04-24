@@ -85,15 +85,15 @@
         <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/icons/website_icon1-01.svg">
-                <h3>Define The <br>Brand Purpose</h3>
+                <h3>Establish an <br> Identity</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                 <img src="img/icons/website_icon3-01.svg">
-                <h3>Align With <br>The Audience</h3>
+                <h3>Send the Right <br> Message</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                <img src="img/icons/website_icon2-01.svg">
-                <h3>Evolve, Adapt <br>& Extend</h3>
+                <img src="img/icons/branding_icon33-01.svg">
+                <h3>Be <br> Different</h3>
             </div>
         </div>
     </div>

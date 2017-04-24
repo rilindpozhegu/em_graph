@@ -256,6 +256,12 @@
 	    background-color: #0B1016;
 	    color: white;
 	}
+	.history-tl-container ul.tl li {
+		margin-left: 85px;
+	}
 
+	.history-tl-container ul.tl li p {
+		font-size: 12px;
+	}
 }
 

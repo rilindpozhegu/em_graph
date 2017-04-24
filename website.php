@@ -61,23 +61,39 @@
 <section class="second_section_websitep">
     <div class="container">
         <div class="row">
-        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
+        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Importance of a <br>Strong Website</h1>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                <img src="img/icons/website_icon1-01.svg">
-                <h3>Define The <br>Website Purpose</h3>
+                <img src="img/icons/website_icon4-01.svg">
+                <h3>Mobile-Friendly</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
-                <img src="img/icons/website_icon2-01.svg">
-                <h3>Build Your <br>Package</h3>
+                <img src="img/icons/website_icon22-01.svg">
+                <h3>Modern Design</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/icons/website_icon3-01.svg">
-                <h3>Connect With<br>Your Audience</h3>
+                <h3>Marketing and Branding</h3>
             </div>
         </div>
     </div>
 </section>
 
+<div class="line_backgorund_img">
+<section class="get_free_mo_pricing">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="padding-top: 5%;">
+                <img src="img/mockups/cms_mockup-01.png" class=" wow fadeInRight img-responsive" data-wow-duration="0.5s" data-wow-delay=".3s">
+            </div>
+            <div class="col-md-6 get_freee_text">
+                <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We build<span><br>Your Own CMS</span></h1>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">After receiving your input from the our initial call we will then have a mockup of the homepage of your new website within 4 business days.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp button_main button__aylen" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Same Like Pricing -->
 
 <section class="get_free_mo_pricing">
@@ -87,7 +103,7 @@
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Get a <br><span>Free</span>Mockup</h1>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">After receiving your input from the our initial call we will then have a mockup of the homepage of your new website within 4 business days.</p>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
+                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp button_main button__aylen" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-5 col-md-offset-1">
                 <img src="img/mockups/pricing_swiss_mock-01.svg" class=" wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">
@@ -95,8 +111,7 @@
         </div>
     </div>
 </section>
-
-
+</div>
 <!-- Contact Form -->
     <?php include 'contact_form_email.php';?>
 

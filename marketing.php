@@ -116,16 +116,16 @@
         <div class="row">
         <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                <img src="img/icons/website_icon1-01.svg">
-                <h3>Define The <br>Brand Purpose</h3>
+                <img src="img/icons/marketing_icon1-01.svg">
+                <h3>Reach Your Target <br> Market Effectively</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
-                <img src="img/icons/website_icon3-01.svg">
-                <h3>Align With <br>The Audience</h3>
+                <img src="img/icons/marketing_icon2-01.svg">
+                <h3>Broaden Your <br> Audience</h3>
             </div>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                <img src="img/icons/website_icon2-01.svg">
-                <h3>Evolve, Adapt <br>& Extend</h3>
+                <img src="img/icons/marketing_icon3-01.svg">
+                <h3>Increase <br> Growth </h3>
             </div>
         </div>
     </div>

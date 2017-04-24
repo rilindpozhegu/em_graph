@@ -9,8 +9,8 @@
     </div>    
       <div class="col-md-7">
           <p>FEATURE COMMING SOON</p>
-          <h1>THIS AMAZING <span>WEBSITE</span> WILL <br>
-          BE LAUNCHED IN <span>FEW DAYS</span></h1>
+          <h1>this amazing <span>website</span> will
+          be launched in <span>few days</span></h1>
           <!-- <h5>Subscribe to our page to get notifications <br>when its available. We promise we will not<br>spam your email.</h5> -->
           <input type="email" name="email_popup" placeholder="Your Email"> <button class="button_style_red_sm button_main button__aylen">Subscribe</button>
       </div>
