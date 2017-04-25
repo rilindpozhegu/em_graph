@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Emirates Landscape</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Emirates Landscape offer a fully comprehensive landscape service from the construction of all kind of hard and soft landscape services including irrigation to the aftercare, operation and maintenance. During the years, they have completed a number of landscape projects. </p>
             </div>
         </div>
     </div>

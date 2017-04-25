@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Utopia</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Utopia was founded by industry experts who specialize in creating Innovative, sophisticated and cutting edge events. With over 10 years of experience under our belt, Utopia has developed extensive knowledge and understanding of event creation, art and hospitality.</p>
             </div>
         </div>
     </div>

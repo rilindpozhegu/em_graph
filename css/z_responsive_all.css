@@ -44,7 +44,7 @@
    		display: none;
   	}
     .header_title_cover {
-	    padding: 4% 6px;
+	    padding: 0% 6px;
 	}
 	.header_title_cover h2 {
 	    font-size: 47px;
@@ -55,8 +55,19 @@
 	    color: white;
 	    font-size: 18px;
 	}
+	.header_title_cover {
+	    /* padding: 17% 6px 0px; */
+	    position: absolute;
+	    top: 25%;
+	    text-align: center;
+	}
 	.section_one_homepage {
 	    padding: 20px 0px 40px;
+	}
+	.first_inner_section_one .other_f {
+	    font-family: 'HelveticaNeueLTStd';
+	    letter-spacing: 1px;
+	    font-size: 13px;
 	}
 	.section_one_homepage h1 {
 	    font-family: 'Montserrat-UltraLight';
@@ -220,6 +231,7 @@
 
 	.slick-dots {
 		left: 0px !important;
+		width: 100% !important;
 	}
 
 	.cover_section_website {
@@ -257,11 +269,21 @@
 	    color: white;
 	}
 	.history-tl-container ul.tl li {
-		margin-left: 85px;
+		margin-left: 105px;
 	}
 
 	.history-tl-container ul.tl li p {
 		font-size: 12px;
+	}
+	ul.tl li .timestamp {
+	    color: #8D8D8D;
+	    position: absolute;
+	    width: 120px;
+	    left: -49%;
+	    text-align: right;
+	    font-size: 13px;
+	    font-family: 'Montserrat-Bold';
+	    top: -7px;
 	}
 }
 

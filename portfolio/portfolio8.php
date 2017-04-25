@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Swiss Canonica World</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Founded in Geneva in 1948 by André Canonica, Canononica is the company at the root of SWISSCANONICA Group, active in the airport catering sector. The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. </p>
             </div>
         </div>
     </div>

@@ -177,3 +177,29 @@ input[type=checkbox], input[type=radio] {
     width: 100%;
     padding: 5px 3px;
 }
+
+
+.pyetsor textarea {
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px #ccc;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .pyetsor textarea:active {
+    outline: none !important;
+  }
+
+   .pyetsor textarea:focus {
+    outline: none !important;
+  }
+
+  .submit_in input {    
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px #ccc;
+    width: 100%;
+    margin-top: 30px;
+    padding: 10px 0px;
+  }

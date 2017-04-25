@@ -7,6 +7,7 @@ module.exports = function(grunt) {
 		concat:{
 			js:{
 				src:[
+					'js/chat.js',
 					'js/jquery.js',
 					'js/bootstrap.min.js', // Boostrap Script.min General,
 					'js/scrolling-nav.js', // Scrolling Nav Default Script,

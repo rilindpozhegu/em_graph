@@ -83,66 +83,66 @@
                       <ul class="tl">
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2012
+                            Founded by Sacha Christe
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p>Founder Sacha Christe decides to make a<br> website for one of his business ventures.<br> Extremely dissatisfied with the offerings<br> of most web-design firms,<br> he opens a marketing agency that<br> aims to be original, innovative,<br> and consumer-friendly.</p>
                               </div>
                           </div>
                         </li>
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2013
+                            First core team
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p>The first core team is assembled in<br> Switzerland. The company starts doing<br> mainly graphic design work for <br>local firms.</p>
                               </div>
                           </div>
                         </li>
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2014
+                            Development services
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p> After finding success in graphic design,<br> the company expands by adding developers<br> to the team. Emirates Graphic starts<br> developing websites from scratch.</p>
                               </div>
                           </div>
                         </li>
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2015
+                            Relocation in Dubai
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p>Founder Sacha moves to Dubai and brings <br>the company with him. In this fast-paced,<br> changing environment, Emirates Graphic<br> finds opportunities to work on more <br>innovative projects.</p>
                               </div>
                           </div>
                         </li>
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2016
+                            Digital<br> Marketing Services
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p>Emirates Graphic starts providing digital<br> marketing services due to the clients’<br> needs. The company opens its first <br>office in Dubai, moving into the <br>Swiss Tower in JLT.</p>
                               </div>
                           </div>
                         </li>
                         <li class="tl-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s" ng-repeat="item in retailer_history">
                           <div class="timestamp">
-                            2017
+                            Growing<br> business
                           </div>
                           <div class="hidden_timeline_panel">
                               <div class="item-title">
-                              <h4>Founded by Sacha Christe</h4>
+                              <!-- <h4>Founded by Sacha Christe</h4> -->
                               <p>More employees join the company in Dubai as<br> Emirates Graphic establishes itself<br> locally. The company, extremely grateful<br> to its loyal clients and their<br> wonderful reception, grows<br> more and more within the UAE market.</p>
                               </div>
                           </div>

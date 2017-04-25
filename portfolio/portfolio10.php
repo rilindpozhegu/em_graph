@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Taxexperts</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">With the arrival of the value added tax in the United Arab Emirates in 2018, it is essential to be up to date and in compliance with the rules and regulations in order to keep doing business successfully. Our team of experts is ready to make sure your company adapts and transitions as smoothly as possible.</p>
             </div>
         </div>
     </div>

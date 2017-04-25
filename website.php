@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-md-6 get_freee_text">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We build <span>websites</span> that work</h1>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Your online presence is anchored by your company website. Let us design one that is visually impressive, convincing, and perfectly functional so that you satisfy your customers and succeed online as much as offline. Let us convince and impress you with our free homepage mockups.</p>
                 <a href="get_started.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-5 col-md-offset-1">
@@ -87,8 +87,8 @@
             </div>
             <div class="col-md-6 get_freee_text">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We build<span><br>Your Own CMS</span></h1>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">After receiving your input from the our initial call we will then have a mockup of the homepage of your new website within 4 business days.</p>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Since we want to add an extra value to our services, we will develop a fully customizable CMS along with your website.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">The CMS (Content Management System) will allow you to have an administrator access to your website and you will be able to make all minor changes by yourself.</p>
                 <a href="get_started.php"><button class="button_style_red_md wow fadeInUp button_main button__aylen" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
         </div>

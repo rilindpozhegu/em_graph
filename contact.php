@@ -34,7 +34,7 @@
         </div>
         <div class="col-md-4 col-xs-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
             <p><i class="fa fa-phone" aria-hidden="true"></i> Tel : +372 (546) 05000 </p>
-            <p><i class="fa fa-mobile" aria-hidden="true"></i> Mob : +971 (050) 912 4567</p>
+            <p> &nbsp;<i class="fa fa-mobile" aria-hidden="true"></i>  Mob : +971 (050) 912 4567</p>
         </div>
         <div class="col-md-4 col-xs-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
             <p><i class="fa fa-envelope" aria-hidden="true"></i> info@emiratesgraphic.com</p>
@@ -97,7 +97,7 @@
                   </div>
 
                 <div class="col-md-12">
-                    <button class="button_style_red_sm wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
+                    <button class="button_style_red_sm wow fadeInUp button_main button__aylen" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
 
             </div>
@@ -117,7 +117,7 @@
       function initMap() {
         var uluru = {lat: 25.0779267, lng: 55.1527393};
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 15,
+          zoom: 12,
         scrollwheel: false,
           center: uluru,styles: [{"featureType":"all","elementType":"all","stylers":[{"hue":"#ff0000"},{"saturation":-100},{"lightness":-30}]},{"featureType":"all","elementType":"labels.text.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"color":"#353535"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#656565"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#505050"}]},{"featureType":"poi","elementType":"geometry.stroke","stylers":[{"color":"#808080"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#454545"}]},{"featureType":"transit","elementType":"labels","stylers":[{"hue":"#000000"},{"saturation":100},{"lightness":-40},{"invert_lightness":true},{"gamma":1.5}]}]
         });

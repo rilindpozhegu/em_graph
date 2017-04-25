@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Horizon Drone</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Horizon Drone is a company specializing in the development of new technologies using drones for public and private use as well as in the field of realization of aerial shots through photos and videos.</p>
             </div>
         </div>
     </div>

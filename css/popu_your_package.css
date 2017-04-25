@@ -2,6 +2,7 @@
 .pop_up_modal_package {
     background-image: url(../img/covers/services_backgorund_cover-01.png);
     background-size: cover;
+    margin-top: 12%;
     background-position: 70%;
     background-repeat: no-repeat; 
     /*padding: 15% 30px;*/
@@ -58,3 +59,4 @@
 	font-size: 30px;
 	color: white !important;
 }
+

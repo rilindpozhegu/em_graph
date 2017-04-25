@@ -4339,10 +4339,14 @@ transition: ease-in-out all 0.1s;
 	font-size: 14px;
 	margin-bottom: 0px;
 }
+.information_contact_section i {
+	color: red;
+	font-size: 18px;
+}
 .contact_page_inputs h2 {
 	font-family: 'Montserrat-Bold';
 	font-size: 53px;
-	color: #5D6A84;
+	color: #5D6A84; 
 	letter-spacing: -2px;
 	padding-bottom: 20px;
 }
@@ -4844,6 +4848,7 @@ transition: ease-in-out all 0.1s;
 .pop_up_modal_package {
     background-image: url(../img/covers/services_backgorund_cover-01.png);
     background-size: cover;
+    margin-top: 12%;
     background-position: 70%;
     background-repeat: no-repeat; 
     /*padding: 15% 30px;*/
@@ -4900,6 +4905,8 @@ transition: ease-in-out all 0.1s;
 	font-size: 30px;
 	color: white !important;
 }
+
+
 .slider_slick_portfolio_main {
 	background-image: url('../portfolio/img/portfolio_all_bg_body21-01.png');
     background-size: cover;
@@ -4954,7 +4961,7 @@ transition: ease-in-out all 0.1s;
     position: absolute;
     bottom: -25px;
     display: block;
-    width: 100%;
+    width: 93% !important;
     left: 51px !important;
     padding: 0;
     margin: 0;
@@ -4985,9 +4992,9 @@ transition: ease-in-out all 0.1s;
 }
 
 .red_tittle_portfolio {
-	color: #FF0013;
+	color: #2A2E3A;
 	font-family: 'Montserrat-Bold';
-	font-size: 45px;
+	font-size: 45px; 
 	margin-top: 0px;
 }
 .second_title_portfolioh3 {
@@ -5331,6 +5338,33 @@ input[type=checkbox], input[type=radio] {
     width: 100%;
     padding: 5px 3px;
 }
+
+
+.pyetsor textarea {
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px #ccc;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .pyetsor textarea:active {
+    outline: none !important;
+  }
+
+   .pyetsor textarea:focus {
+    outline: none !important;
+  }
+
+  .submit_in input {    
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px #ccc;
+    width: 100%;
+    margin-top: 30px;
+    padding: 10px 0px;
+  }
+
 body {
     width: 100%;
     height: 100%;
@@ -5640,7 +5674,7 @@ Responsive Part
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-position: center 0px;
-    padding: 10% 6px;
+    padding: 14% 6px 8%;
 }
 .cover_section_website p {
 	color: #7F8289;
@@ -5724,7 +5758,7 @@ Responsive Part
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-position: center 0px;
-    padding: 10% 6px;
+    padding: 13% 6px 8%;
 }
 .cover_section_branding p {
 	color: #7F8289;
@@ -5740,7 +5774,7 @@ Responsive Part
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-position: center 0px;
-    padding: 10% 6px;
+    padding: 13% 6px 8%;
 }
 .cover_section_marketing p {
 	color: #7F8289;
@@ -6270,17 +6304,20 @@ ul.tl li .item-detail{
     color:rgba(0,0,0,0.5);
     font-size:12px;
 }
-ul.tl li .timestamp{
+
+ul.tl li .timestamp {
     color: #8D8D8D;
     position: absolute;
-    width:100px;
-    left: -50%;
+    width: 141px;
+    left: -46%;
     text-align: right;
     font-size: 15px;
     font-family: 'Montserrat-Bold';
+    top: -7px;
 }
-
-
+.history-tl-container ul.tl li:hover .timestamp {
+    color: red;
+}
 /* Text Edition on Timeline " Left Side " */
 .hidden_timeline_panel {
     background-color: transparent;
@@ -6297,7 +6334,7 @@ ul.tl li .timestamp{
 }
 
 .item-title {
-    padding: 2px 18px;
+    padding: 12px 18px 5px;
 }
 .item-title h4 {
     font-family: 'Montserrat-Bold';
@@ -6371,7 +6408,7 @@ ul.tl li .timestamp{
    		display: none;
   	}
     .header_title_cover {
-	    padding: 4% 6px;
+	    padding: 0% 6px;
 	}
 	.header_title_cover h2 {
 	    font-size: 47px;
@@ -6382,8 +6419,19 @@ ul.tl li .timestamp{
 	    color: white;
 	    font-size: 18px;
 	}
+	.header_title_cover {
+	    /* padding: 17% 6px 0px; */
+	    position: absolute;
+	    top: 25%;
+	    text-align: center;
+	}
 	.section_one_homepage {
 	    padding: 20px 0px 40px;
+	}
+	.first_inner_section_one .other_f {
+	    font-family: 'HelveticaNeueLTStd';
+	    letter-spacing: 1px;
+	    font-size: 13px;
 	}
 	.section_one_homepage h1 {
 	    font-family: 'Montserrat-UltraLight';
@@ -6547,6 +6595,7 @@ ul.tl li .timestamp{
 
 	.slick-dots {
 		left: 0px !important;
+		width: 100% !important;
 	}
 
 	.cover_section_website {
@@ -6584,11 +6633,21 @@ ul.tl li .timestamp{
 	    color: white;
 	}
 	.history-tl-container ul.tl li {
-		margin-left: 85px;
+		margin-left: 105px;
 	}
 
 	.history-tl-container ul.tl li p {
 		font-size: 12px;
+	}
+	ul.tl li .timestamp {
+	    color: #8D8D8D;
+	    position: absolute;
+	    width: 120px;
+	    left: -49%;
+	    text-align: right;
+	    font-size: 13px;
+	    font-family: 'Montserrat-Bold';
+	    top: -7px;
 	}
 }
 

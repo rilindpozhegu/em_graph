@@ -69,7 +69,7 @@
                 <p>We can add unique and extraordinary features to your website, but they take time and resources to develop, and thus websites that feature many unique functionalities usually come out pricier.</p>
             </div>
             <div class="col-md-12 decide_btn wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
-                <button><i class="fa fa-angle-right" aria-hidden="true"></i> Decide Your Own Price</button>
+                <button  data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fa fa-angle-right" aria-hidden="true"></i> Decide Your Own Price</button>
             </div>
         </div>
     </div>
@@ -88,7 +88,7 @@
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Get a <br><span>Free</span>Mockup</h1>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">After receiving your input from the our initial call we will then have a mockup of the homepage of your new website within 4 business days.</p>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">This mockup is just a preliminary draft and should we work together you will have ample opportunity to revise the design until it is just as you like it.</p>
-                <button class="button_style_red_md wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                <a href="get_started.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-5 col-md-offset-1 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <img src="img/mockups/pricing_swiss_mock-01.svg">

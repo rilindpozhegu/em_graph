@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-6 text_about_cover">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We <span>boost</span> successful online <span>businesses.</span></h1>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">You might be the best at what you do, but your target market needs to know this. Emirates Graphic will help you to reach just the right people with the most effective content. Generate buzz and desire for your products or services by letting us manage your online marketing.</p>
                 <a href="portfolio_main.php"><button class="button_style_gray button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio</button></a>
             </div> 
         </div>
@@ -85,8 +85,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-7">
-        <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s""><span>Fill Out</span><br> the questionnaire</h1>
-        <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"">Here are the main factors that affect the scope of the website project, before you proceed building your own package.</p>
+        <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s""><span>Fill Out</span><br> Our Questionnaire</h1>
+        <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">In order to come up with the best online marketing strategies that will fit your target audience, we need to understand your vision.</p>
         <a href="questionnaire.php"><button class="button_style_red_md  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Questionnaire</button></a>
       </div>
     </div>
@@ -98,7 +98,7 @@
         <div class="row">
             <div class="col-md-6 get_freee_text" style="padding-top: 14%;">
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We create <span>ads</span><br> that sell</h1>
-                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
+                <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">You might be the best at what you do, but your target market needs to know this. Emirates Graphic will help you to reach just the right people with the most effective content. Generate buzz and desire for your products or services by letting us manage your online marketing.</p>
                 <a href="portfolio_main.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Portfolio </button></a>
             </div>
             <div class="col-md-6">
@@ -114,7 +114,7 @@
 <section class="second_section_websitep">
     <div class="container">
         <div class="row">
-        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
+        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Importance <br>of Online Marketing</h1>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/icons/marketing_icon1-01.svg">
                 <h3>Reach Your Target <br> Market Effectively</h3>

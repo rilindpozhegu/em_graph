@@ -30,7 +30,7 @@
                 <h1 class="red_tittle_portfolio wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Swiss Canonica UAE</h1>
             </div>
             <div class="col-md-7">
-                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Cu sea sanctus petentium, sint aperiri molestiae at nec. Duo ex quando nemore habemus, duo verterem sensibus cu. Fabulas impedit mediocritatem per cu, vel decore tritani ea. Saperet oportere id mea. No has alterum senserit, mei an honestatis deterruisset. </p>
+                <p class="portfolio_paragraphs wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Settled in Dubai since 2014, SWISSCANONICA UAE is part of the SWISSCANONICA Group, founded in Geneva – Switzerland- in 1948 by Mr. André CANONICA. The company, a family run business, is active in the airport catering and retail sectors but also in the chocolate manufacturing and the Food &Beverage consulting.</p>
             </div>
         </div>
     </div>

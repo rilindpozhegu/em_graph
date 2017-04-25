@@ -46,10 +46,26 @@
         <a href="#step-3" type="button" class="btn btn-default btn-circle">3</a>
         <p>Step 3</p>
       </div>
+      <div class="stepwizard-step">
+        <a href="#step-4" type="button" class="btn btn-default btn-circle">4</a>
+        <p>Step 4</p>
+      </div>
+      <div class="stepwizard-step">
+        <a href="#step-5" type="button" class="btn btn-default btn-circle">5</a>
+        <p>Step 5</p>
+      </div>
+      <div class="stepwizard-step">
+        <a href="#step-6" type="button" class="btn btn-default btn-circle">6</a>
+        <p>Step 6</p>
+      </div>
+      <div class="stepwizard-step">
+        <a href="#step-7" type="button" class="btn btn-default btn-circle">7</a>
+        <p>Step 7</p>
+      </div>
     </div>
   </div>
   
-  <form role="form" action="" method="post">
+  <form role="form" action="" method="post" class="pyetsor">
 
     <div class="row setup-content wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s" id="step-1">
         <div class="col-md-12">
@@ -175,10 +191,219 @@
                     <input  type="radio" class="option-input radio" name="example"/>
                     Male
                   </label>
-            </div>            
+            </div>      
+            <div class="col-md-12 questions_button_section">  
+                <button class="button_style_red_md  button_main button__aylen nextBtn" type="button" >Next <i class="fa fa-angle-right"></i></button>
+            </div> 
+        </div>
+    </div>
+    <div class="row setup-content" id="step-4">
+        <div class="col-md-12">
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">04</h1>
+                <h3>In what language(s) are you<br>looking to communicate with<br> your audience?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 8%;">     
+                  <label>
+                    <input  type="radio" class="option-input radio" name="example2"/>
+                    English
+                  </label><br>
+                  <label>
+                    <input  type="radio" class="option-input radio" name="example2"/>
+                    French
+                  </label>               
+            </div>  
+            <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-top: 2%;">
+                <h1 class="title_question_nr">04.1</h1>
+                <h3>What is your preferred means to<br> be contacted by your clients?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">     
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    By Phone
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Email via website
+                  </label><br>  
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Social Networking
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    No Real Preference
+                  </label>                   
+            </div> 
+            <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-top: 2%;">
+                <h1 class="title_question_nr">04.2</h1>
+                <h3>Does your business seek to reach;</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 3%;">     
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Local Markets
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Regional Markets
+                  </label>  <br>  
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    National Markets
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    International Markets
+                  </label>     
+                  <textarea placeholder="Feel free to tell us more" rows="3"></textarea>              
+            </div> 
+
+            <div class="col-md-12 questions_button_section">  
+                <button class="button_style_red_md  button_main button__aylen nextBtn" type="button" >Next <i class="fa fa-angle-right"></i></button>
+            </div>  
+        </div>
+    </div>
+
+    <div class="row setup-content" id="step-5">
+        <div class="col-md-12">
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">05</h1>
+                <h3>Which of the following from<br> the list below describes your<br> target customer's employment status?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">                
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Employed, (1-39 hours per week)
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Employed, (40 hours or more per week)
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Not Employed (Looking for work)
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Self-employed
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Retired
+                  </label>
+            </div>
+            <div class="clearfix"></div> 
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">05.1</h1>
+                <h3>Do you have any specific individuals,<br> companies or organizations you’d <br>like to target?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">                
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Specific Individuals. Ex: individuals that speak French
+                  </label><br>
+                  <textarea placeholder="Tell us more about your vision" rows="3"></textarea><br>
+
+                  <label>
+                    <input type="checkbox" class="option-input checkbox" />
+                    Specific Companies or Corporations. Ex: Restaurants specialized in French Cuisine)
+                  </label><br>
+                  <textarea placeholder="Tell us more about your vision" rows="3"></textarea><br>
+            </div>   
+
+
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">05.2</h1>
+                <h3>What is your target industry?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">    
+                  <textarea placeholder="Tell us more about your vision" rows="3"></textarea><br>
+            </div>    
+            <div class="col-md-12 questions_button_section">  
+                <button class="button_style_red_md  button_main button__aylen nextBtn" type="button" >Next <i class="fa fa-angle-right"></i></button>
+            </div> 
+        </div>
+    </div>
+    <div class="row setup-content" id="step-6">
+        <div class="col-md-12">
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">06</h1>
+                <h3>Where is your business truly excellent?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">                
+                  <textarea rows="3" placeholder="Tell us more about your vision"></textarea>
+            </div>
+            <div class="clearfix"></div> 
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">06.1</h1>
+                <h3>What aspects of your business do you want the campaign to focus on?</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">      
+                  <textarea rows="3" placeholder="Tell us more about your vision"></textarea><br>
+            </div>   
+            <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">06.2</h1>
+                <h3>Who is your ideal client? Please describe<br> in detail. (interests, industries,<br> credentials etc.)</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">    
+                  <textarea placeholder="Tell us more about your vision"></textarea><br>
+            </div>    
+            <div class="col-md-12 questions_button_section">  
+            </div> 
+            <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">06.3</h1>
+                <h3>Who is your ideal client? Please describe<br> in detail. (interests, industries,<br> credentials etc.)</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">    
+                  <textarea placeholder="Tell us more about your vision"></textarea><br>
+            </div>    
+            <div class="col-md-12 questions_button_section">  
+            </div> 
+            <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">06.4</h1>
+                <h3>Who is your ideal client? Please describe<br> in detail. (interests, industries,<br> credentials etc.)</h3>
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 4%;">    
+                  <textarea placeholder="Tell us more about your vision"></textarea><br>
+            </div>    
+            <div class="col-md-12 questions_button_section">  
+                <button class="button_style_red_md  button_main button__aylen nextBtn" type="button" >Next <i class="fa fa-angle-right"></i></button>
+            </div> 
+        </div>
+    </div>
+
+    <div class="row setup-content submit_in" id="step-7">
+        <div class="col-md-12">
+            <div class="col-md-5" style="padding-top: 0%;">
+                <h1 class="title_question_nr">07</h1>
+                <!-- <h3>What gender are you wanting<br>to target in this marketing<br>campaign? </h3> -->
+            </div>
+
+            <div class="col-md-4 col-md-offset-2" style="padding-top: 0%;">   
+                  <input type="" name="" placeholder="Name"><br>   
+                  <input type="" name="" placeholder="Phone"><br>   
+                  <input type="" name="" placeholder="Email">
+            </div>      
             <div class="col-md-12 questions_button_section">  
                 <button class="button_style_red_md  button_main button__aylen" type="button" >Submit <i class="fa fa-angle-right"></i></button>
-            </div>  
+            </div> 
         </div>
     </div>
   </form>

@@ -48,8 +48,8 @@
         <div class="row">
             <div class="col-md-6 get_freee_text">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We create <span>brands</span> that sell</h1>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                <a href="get_started.php"><button class="button_style_red_md wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">You want to be the first thing people think about when they need the services you provide. You want to be unique and send the right image to consumers. At Emirates Graphic, we will help you create this strong and consistent identity.</p>
+                <a href="get_started.php"><button class="button_style_red_md button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Get Started &nbsp;&nbsp;<i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
             </div>
             <div class="col-md-6" style="padding-top: 3%;">
                 <img src="img/services/services_img11-01.png" class="img-responsive wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">
@@ -69,8 +69,8 @@
             </div>
             <div class="col-md-3 col-md-offset-1">
                 <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">View a Brand Guideline</h1>
-                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                <a href="Utopia Brand Guidelines.pdf"><button class="button_style_red_sm  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View</button></a>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">We care about our customers and their brands, we believe that having a strong brand identity is the key to success. We always try our best to be creative and design a corporate identity that will leave an amazing long-lasting impression.</p>
+                <a href="Utopia Brand Guidelines.pdf" target="_blank"><button class="button_style_red_sm  button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">View</button></a>
             </div>
         </div>
     </div>
@@ -82,7 +82,7 @@
 <section class="second_section_websitep">
     <div class="container">
         <div class="row">
-        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">We will think about<br>and amazing title here.</h1>
+        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Importance of a <br>Unique Brand</h1>
             <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/icons/website_icon1-01.svg">
                 <h3>Establish an <br> Identity</h3>

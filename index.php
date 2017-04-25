@@ -16,6 +16,7 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="build/styles.css">
+
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -114,7 +115,7 @@
                     <img src="img/mockups/big_mockup12a-01.png" class="title img-responsive">
                     <div class="overlay"></div>
                     <div class="button_in_panel_h col-md-12">
-                        <p>Nationaly Advisor</p>
+                        <p>Nationality Advisor</p>
                         <a href="http://www.emiratesgraphic.com/emirates-graphic/portfolio/portfolio7.php"><button class="button_style_red_xs button_main button__aylen">View More</button></a>
                     </div>
                 </div>
@@ -244,7 +245,7 @@
             <div class="col-md-6 bring_text_home">
                 <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Bring your<br> next project to life</h1>
                 <h2 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact us now. Really. Right now.</h2>
-                <a href="contact.php"><button class="button_style_white_sm wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact Us</button></a>
+                <a href="contact.php"><button class="button_style_white_sm button_main button__aylen wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact Us</button></a>
             </div>
         </div>
     </div>
