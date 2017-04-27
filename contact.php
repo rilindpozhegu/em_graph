@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="emirates">
 
 <head>
 
@@ -18,7 +18,7 @@
     <link rel="stylesheet" type="text/css" href="build/styles.css">
 </head>
 
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" ng-controller="ContactCtrl">
 
 
 <!-- NavigationBar -->
@@ -49,12 +49,12 @@
            <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Ask Us <span>Anything</span></h2>
            <!-- <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Send us an email by entering your details and any comments you may have in the form.</p> -->
             <!-- <div class="col-md-2"></div> -->
-
+            <form id="em_contact">
             <div class="col-md-10 col-md-offset-1">
               <div class="col-md-6 no_padding">  
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style">
+                      <input type="text" required class="input_style" name="name">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Name</label>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">            
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style">
+                      <input type="text" required class="input_style" name="phone">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Phone</label>
@@ -72,7 +72,7 @@
                 <div class="col-md-6 no_padding">                
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style">
+                      <input type="text" required class="input_style" name="email">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Email</label>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">            
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style">
+                      <input type="text" required class="input_style" name="website">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Website</label>
@@ -89,7 +89,7 @@
                 </div>
                   <div class="col-md-12 input_size_textarea wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">                            
                       <div class="group_inputs textarea">      
-                        <input type="text" required class="input_style">
+                        <input type="text" required class="input_style" name="description">
                         <span class="highlight"></span>
                         <span class="bar"></span>
                         <label class="label_string">Tell us about your project</label>
@@ -97,10 +97,11 @@
                   </div>
 
                 <div class="col-md-12">
-                    <button class="button_style_red_sm wow fadeInUp button_main button__aylen" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
+                    <button class="button_style_red_sm wow fadeInUp button_main button__aylen"  type="submit" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
 
             </div>
+            </form>
 
             <!-- <div class="col-md-2"></div> -->
         </div>
@@ -113,6 +114,7 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
     <script>
       function initMap() {
         var uluru = {lat: 25.0779267, lng: 55.1527393};
@@ -126,6 +128,32 @@
           map: map
         });
       }
+    </script>
+
+    <script type="text/javascript">
+        $("#em_contact").submit(function(e) {
+
+                var url = "mail.php"; // the script where you handle the form input
+
+                $.ajax({
+                       type: "POST",
+                       url: url,
+                       data: $("#em_contact").serialize()+ "&type=" + "special", // serializes the form's elements.
+                       beforeSend: function()
+                       {
+                            
+                       },   
+                       complete: function(data)
+                        {
+                            $.notify(data.responseText, "success");
+                          
+                        }
+
+                     });
+
+                e.preventDefault(); // avoid to execute the actual submit of the form.
+            });
+
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6V1PFtdP3xYfm9KQuKR618IS28g50FNY&callback=initMap">
