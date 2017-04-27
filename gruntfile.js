@@ -9,7 +9,9 @@ module.exports = function(grunt) {
 				src:[
 					'js/chat.js',
 					'js/jquery.js',
-					'js/bootstrap.min.js', // Boostrap Script.min General,
+					'js/bootstrap.min.js',
+					'js/angular.min.js',
+					'js/app.js',  // Boostrap Script.min General,
 					'js/scrolling-nav.js', // Scrolling Nav Default Script,
 
 					// Facts Section Number Counter Scripts/All
@@ -34,7 +36,9 @@ module.exports = function(grunt) {
 					'js/smoothscroll.js', // Smooth Scroll Script + time to Scroll,					
 					'js/check_box.js',
 					'js/active_property.js',
-					'js/pointer_navigatior.js', //Pointer Navigation Middle
+					'js/pointer_navigatior.js',
+					'js/notify.js',
+					 //Pointer Navigation Middle
 
 					// CRM Script
 					// 'js/crm_script.js',
