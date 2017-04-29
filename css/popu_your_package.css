@@ -13,7 +13,7 @@
     /*padding: 15% 30px;*/
 }
 .pop_up_modal_package .col-md-7 {
-	padding: 15% 5%;
+	padding: 10% 5%;
 }
 
 .pop_up_modal_package p {
@@ -60,3 +60,55 @@
 	color: white !important;
 }
 
+
+.close_button_cols {
+	text-align: right;
+}
+
+.close_button_cols button {
+	width: 3% !important;
+	background-color: transparent;
+	border: none;
+}
+
+.close_button_cols button span {
+	color: #ccc !important;
+}
+
+.close_button_cols button span:hover{
+	transition: ease-in-out all 0.3s;
+	color: white;
+}
+
+/*-=================-*/
+
+/*	check Porfolio	 */
+
+/*-=================-*/
+
+
+
+
+.view_portfolio_popup img {
+	width: 100%;
+}
+
+.view_portfolio_popup h1 {
+	color: #595E69;
+	font-family: 'Montserrat-Bold';
+	font-size: 25px;
+	padding: 5px 10px;
+}
+
+.view_portfolio_popup p {
+	color: #83868F;
+	font-size: 17px;
+	padding: 5px 10px;
+}
+
+.view_portfolio_popup .modal-footer {
+	text-align: center !important;
+	border: none;
+	padding: 0px;
+	margin-bottom: 20px;
+}

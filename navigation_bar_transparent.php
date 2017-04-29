@@ -28,6 +28,7 @@
                           <ul class="dropdown-menu">
                             <li><a class="#" href="our_story.php">OUR STORY</a></li>
                             <!-- <li><a class="#" href="are_we_a_good_fit.php">ARE WE A GOOD FIT</a></li> -->
+                            <li><a class="#" href="career.php">CAREER</a></li>
                             <li><a class="#" href="blog.php">BLOG</a></li>
                           </ul>
                         </li>

@@ -11,7 +11,8 @@
     <!-- Tab Logo -->
     <link rel="icon" href="img/emirates-transparent-logo-01.png">
 
-    <title>Emirates Graphic</title>
+     <title>Trusted Internet Marketing & Web Development Company in Dubai</title>
+    <meta name="We at Emirates Graphic provides solutions for Digital Marketing, Branding, Web & Mobile App development with a common vision towards to reaching the best result and satisfying customers." />
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">

@@ -1,0 +1,4 @@
+User-agent: googlebot
+Disallow:
+
+sitemap: http//www.emiratesgraphic.com/sitemap.xml

@@ -33,7 +33,7 @@ html {
   background-color: #0D141C !important;
   padding: 0px !important;
   /*transition: ease-in-out all 0.3s !important;*/
-    box-shadow: 0 10px 20px rgba(0,0,0,0.14), 0 6px 6px rgba(0,0,0,0.33);
+    /*box-shadow: 0 10px 20px rgba(0,0,0,0.14), 0 6px 6px rgba(0,0,0,0.33);*/
 }
 
 .top-nav-collapse img {

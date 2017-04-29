@@ -11,7 +11,8 @@
     <!-- Tab Logo -->
     <link rel="icon" href="img/emirates-transparent-logo-01.png">
 
-    <title>Emirates Graphic</title>
+    <title>Trusted Internet Marketing & Web Development Company in Dubai</title>
+    <meta name="We at Emirates Graphic provides solutions for Digital Marketing, Branding, Web & Mobile App development with a common vision towards to reaching the best result and satisfying customers." />
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -47,22 +48,22 @@
             <div class="col-md-4">
                 <div class="career_panel">
                     <h5>Business <br> Development</h5>
-                    <p>Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                    <button class="button_style_red_md button_main button__aylen">Contact</button>
+                    <p>Build market position by locating, developing, defining, negotiating, and closing business relationships.<br>&nbsp; <br>&nbsp;</p>
+                    <a href="contact.php"><button class="button_style_red_md button_main button__aylen">Contact</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="career_panel">
-                    <h5>Business <br> Development</h5>
-                    <p>Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                    <button class="button_style_red_md button_main button__aylen">Contact</button>
+                    <h5>Digital Marketing <br>Specialist</h5>
+                    <p>Manage the day to day digital marketing activities of the company and implement long term marketing strategies for our clients.<br>&nbsp;</p>
+                    <a href="contact.php"><button class="button_style_red_md button_main button__aylen">Contact</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="career_panel">
-                    <h5>Business <br> Development</h5>
-                    <p>Our passion for design goes beyond beautiful imagery and into the mind of the consumer, where we believe good design should solve problems and position a brand so it stands out as well as stands for something.</p>
-                    <button class="button_style_red_md button_main button__aylen">Contact</button>
+                    <h5>Mobile Application Developer</h5>
+                    <p>Develop mobile application and translate code into user-friendly apps and collaborate with internal teams to develop functional mobile applications.</p>
+                    <a href="contact.php"><button class="button_style_red_md button_main button__aylen">Contact</button></a>
                 </div>
             </div>
         </div>

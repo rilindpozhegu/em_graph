@@ -11,7 +11,8 @@
     <!-- Tab Logo -->
     <link rel="icon" href="img/emirates-transparent-logo-01.png">
 
-    <title>Emirates Graphic</title>
+    <title>Cutting Edge Digital Marketing Agency Dubai - Emirates Graphic</title>
+    <meta name="description" content="Emirates Graphic is one of the leading Digital Agency delivering all types of Digital Marketing, Branding & Development services in Dubai." />
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -99,7 +100,7 @@
                 <div class="col-md-12">
                     <button class="button_style_red_sm wow fadeInUp button_main button__aylen"  type="submit" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
-
+                <a class="#" href="#" data-toggle="modal" data-target="#view_portfolio_pop" style="color: black; outline: none !important">YOUR PACKAGE</a>
             </div>
             </form>
 
@@ -108,6 +109,9 @@
     </div>     
 </section>
 </div>
+
+
+    <?php include 'pop_watch_portfolio.php';?>
 <!-- Footer all Pages -->    
     <?php include 'footer_all.php';?>
 

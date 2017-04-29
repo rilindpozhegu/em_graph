@@ -31,6 +31,10 @@
     .desktop-d-n {
       display: none;
     }
+    .statistics_section_home {
+	    background-color: #2A2E3A;
+	    /*height: 66%;*/
+	}
 
 }
 
@@ -67,7 +71,7 @@
 	.first_inner_section_one .other_f {
 	    font-family: 'HelveticaNeueLTStd';
 	    letter-spacing: 1px;
-	    font-size: 13px;
+	    font-size: 12px;
 	}
 	.section_one_homepage h1 {
 	    font-family: 'Montserrat-UltraLight';
@@ -114,6 +118,12 @@
 	.solial_media_footer button {
 	  margin-top: 0px !important;
 	  width: 27%;
+	}
+
+	.general_footer button {
+		font-size: 12px;
+		text-align: center !important;
+
 	}
 
 	/*Get Started Navigation bar colored and the actual page*/
@@ -210,6 +220,7 @@
 	.information_contact_section .col-xs-12 {
 		text-align: center;
 		padding-bottom: 20px;
+		text-align: left !important;
 	}
 
 	/*Portfolio Page*/
@@ -263,6 +274,10 @@
 		width: 100%;
 	}
 
+	.pop_up_modal_package .col-md-7 {
+		padding: 1% 5% 5%;
+	}
+
 	.questionnaire_section {
 	    padding: 26% 10px 0px;
 	    background-color: #0B1016;
@@ -284,6 +299,23 @@
 	    font-size: 13px;
 	    font-family: 'Montserrat-Bold';
 	    top: -7px;
+	}
+
+	.statistics_text_right p {
+		font-size: 48px;
+	}
+	.experience_text_portfolio h3 {
+		text-align: center;
+	}
+	.view_project_btn_sec {
+		text-align: center;
+	}
+	.timeline_section {
+		background-image: none !important;
+		background-color: white;
+	}
+	.cover_section_career {
+		padding: 25% 10px;
 	}
 }
 

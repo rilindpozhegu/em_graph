@@ -5,7 +5,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-position: center 0px;
-    padding: 10% 6px;
+    padding: 16% 6px 10%;
 }
 .cover_section_career p {
 	color: #7F8289;
@@ -20,6 +20,7 @@
 .career_first_section .career_panel {
 	background-color: white;
 	padding: 60px 40px 40px; 
+	margin-bottom: 10px;
 }
 
 .career_panel h5 {

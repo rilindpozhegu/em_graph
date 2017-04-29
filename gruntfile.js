@@ -24,7 +24,7 @@ module.exports = function(grunt) {
 					'js/slick.js',
 					'js/slick_edition.js',
 					// -------------------// 
-
+					
 					// Animation.css Scripts after scroll
 					'js/wow.min.js',
 					'js/animate.js',

@@ -106,7 +106,7 @@ require 'vendor/autoload.php';
 	
 	function sendMail($body, $email, $name){
 		$transport = Swift_SmtpTransport::newInstance('relay-hosting.secureserver.net', 25)
-	  		->setUsername('sacha@emiratesgraphic.com')  
+	  		->setUsername('maredooplus@gmail')  
 	  		->setPassword('Sacha@1122');
 
 		// Create the Mailer using your created Transport
@@ -115,7 +115,7 @@ require 'vendor/autoload.php';
 		// Create a message
 		$message = Swift_Message::newInstance("Questionnaire email by ". $name)
 		  ->setFrom(array($email => 'emiratesgraphic.com'))
-		  ->setTo(array('sacha@emiratesgraphic.com' => ''))
+		  ->setTo(array('rilindp@gmail.com' => ''))
 		  ->setBody($body, 'text/html');
 
 		// Send the message

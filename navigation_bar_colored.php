@@ -8,7 +8,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="www.emiratesgraphic.com"><img src="img/logos/emirate_logo_red-01.svg"></a>
+                <a class="navbar-brand page-scroll" href="http://www.emiratesgraphic.com"><img src="img/logos/emirate_logo_red-01.svg"></a>
             </div>
 
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -25,6 +25,7 @@
                           <ul class="dropdown-menu">
                             <li><a class="#" href="our_story.php">OUR STORY</a></li>
                             <!-- <li><a class="#" href="are_we_a_good_fit.php">ARE WE A GOOD FIT</a></li> -->
+                            <li><a class="#" href="career.php">CAREER</a></li>
                             <li><a class="#" href="blog.php">BLOG</a></li>
                           </ul>
                         </li>

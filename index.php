@@ -11,7 +11,8 @@
     <!-- Tab Logo -->
     <link rel="icon" href="img/emirates-transparent-logo-01.png">
 
-    <title>Emirates Graphic</title>
+    <title>Cutting Edge Digital Marketing Agency Dubai - Emirates Graphic</title>
+    <meta name="description" content="Emirates Graphic is one of the leading Digital Agency delivering all types of Digital Marketing, Branding & Development services in Dubai." />
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -170,9 +171,9 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-12 col-md-7 big_mockup_p">
-                <img src="img/mockups/big_mockup-01.png" class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+                <img src="img/mockups/mock up-01.png" class="wow fadeInLeft img-responsive" data-wow-duration="1s" data-wow-delay=".5s">
             </div>
-            <div class="statistics_text_right col-md-3">
+            <div class="statistics_text_right col-md-4">
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s"><span class="counter" style="display: inline-block;">5</span> years</p>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s"><span class="counter" style="display: inline-block;">16</span> employees</p>
                 <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s"><span class="counter" style="display: inline-block;">278 </span> clients</p>
