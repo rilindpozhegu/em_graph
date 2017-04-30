@@ -10,7 +10,7 @@
               <div class="col-md-6 no_padding">  
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style" name="name">
+                      <input type="text" required class="input_style" name="name" id="name">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Name</label>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style" name="email">
+                      <input type="email" required class="input_style" name="email">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Email</label>

@@ -114,6 +114,7 @@
 </section>
 </div>
 <!-- Contact Form -->
+<?php include 'pop_watch_portfolio.php';?>
     <?php include 'contact_form_email.php';?>
 
 <!-- Footer all Pages -->    
@@ -129,6 +130,8 @@
  <script type="text/javascript">
         $("#em_contact").submit(function(e) {
 
+            var name = "Dear " + $('#name').val();
+
                 var url = "mail.php"; // the script where you handle the form input
 
                 $.ajax({
@@ -141,7 +144,9 @@
                        },   
                        complete: function(data)
                         {
-                            $.notify(data.responseText, "success");
+                           $('#view_portfolio_pop').modal('show');
+                           $('.modal-body h1').append(name);
+                           $('#em_contact')[0].reset();
                           
                         }
 

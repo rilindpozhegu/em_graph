@@ -55,7 +55,7 @@
               <div class="col-md-6 no_padding">  
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style" name="name">
+                      <input type="text" required class="input_style" name="name" id="name">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Name</label>
@@ -73,7 +73,7 @@
                 <div class="col-md-6 no_padding">                
                 <div class="col-md-12 input_size wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">                
                     <div class="group_inputs">      
-                      <input type="text" required class="input_style" name="email">
+                      <input type="email" required class="input_style" name="email">
                       <span class="highlight"></span>
                       <span class="bar"></span>
                       <label class="label_string">Email</label>
@@ -100,7 +100,6 @@
                 <div class="col-md-12">
                     <button class="button_style_red_sm wow fadeInUp button_main button__aylen"  type="submit" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
-                <a class="#" href="#" data-toggle="modal" data-target="#view_portfolio_pop" style="color: black; outline: none !important">YOUR PACKAGE</a>
             </div>
             </form>
 
@@ -111,7 +110,8 @@
 </div>
 
 
-    <?php include 'pop_watch_portfolio.php';?>
+<?php include 'pop_watch_portfolio.php';?>
+
 <!-- Footer all Pages -->    
     <?php include 'footer_all.php';?>
 
@@ -137,6 +137,8 @@
     <script type="text/javascript">
         $("#em_contact").submit(function(e) {
 
+          var name = "Dear " + $('#name').val();
+
                 var url = "mail.php"; // the script where you handle the form input
 
                 $.ajax({
@@ -149,7 +151,9 @@
                        },   
                        complete: function(data)
                         {
-                            $.notify(data.responseText, "success");
+                           $('#view_portfolio_pop').modal('show');
+                           $('.modal-body h1').append(name);
+                            $('#em_contact')[0].reset();
                           
                         }
 
